@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "terrafirmamisc:metal/chain/wrought_iron",
+    "terrafirmamisc:metal/cog/wrought_iron",
+    "terrafirmamisc:metal/foil/wrought_iron",
+    "terrafirmamisc:metal/nail/wrought_iron",
+    "terrafirmamisc:metal/plate/wrought_iron",
+    "terrafirmamisc:metal/ring/wrought_iron",
+    "terrafirmamisc:metal/screw/wrought_iron",
+    "terrafirmamisc:metal/spring/wrought_iron",
+    "terrafirmamisc:metal/wire/wrought_iron"
+  ]
+}

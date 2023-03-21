@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "terrafirmamisc:metal/chain/stainless_steel",
+    "terrafirmamisc:metal/cog/stainless_steel",
+    "terrafirmamisc:metal/foil/stainless_steel",
+    "terrafirmamisc:metal/nail/stainless_steel",
+    "terrafirmamisc:metal/plate/stainless_steel",
+    "terrafirmamisc:metal/ring/stainless_steel",
+    "terrafirmamisc:metal/screw/stainless_steel",
+    "terrafirmamisc:metal/spring/stainless_steel",
+    "terrafirmamisc:metal/wire/stainless_steel"
+  ]
+}

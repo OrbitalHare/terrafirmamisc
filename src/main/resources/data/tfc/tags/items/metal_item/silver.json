@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "terrafirmamisc:metal/chain/silver",
+    "terrafirmamisc:metal/cog/silver",
+    "terrafirmamisc:metal/foil/silver",
+    "terrafirmamisc:metal/nail/silver",
+    "terrafirmamisc:metal/plate/silver",
+    "terrafirmamisc:metal/ring/silver",
+    "terrafirmamisc:metal/screw/silver",
+    "terrafirmamisc:metal/spring/silver",
+    "terrafirmamisc:metal/wire/silver"
+  ]
+}

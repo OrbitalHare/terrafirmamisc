@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "terrafirmamisc:metal/chain/rose_gold",
+    "terrafirmamisc:metal/cog/rose_gold",
+    "terrafirmamisc:metal/foil/rose_gold",
+    "terrafirmamisc:metal/nail/rose_gold",
+    "terrafirmamisc:metal/plate/rose_gold",
+    "terrafirmamisc:metal/ring/rose_gold",
+    "terrafirmamisc:metal/screw/rose_gold",
+    "terrafirmamisc:metal/spring/rose_gold",
+    "terrafirmamisc:metal/wire/rose_gold"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "terrafirmamisc:metal/chain/cast_iron",
+    "terrafirmamisc:metal/cog/cast_iron",
+    "terrafirmamisc:metal/foil/cast_iron",
+    "terrafirmamisc:metal/nail/cast_iron",
+    "terrafirmamisc:metal/plate/cast_iron",
+    "terrafirmamisc:metal/ring/cast_iron",
+    "terrafirmamisc:metal/screw/cast_iron",
+    "terrafirmamisc:metal/spring/cast_iron",
+    "terrafirmamisc:metal/wire/cast_iron"
+  ]
+}

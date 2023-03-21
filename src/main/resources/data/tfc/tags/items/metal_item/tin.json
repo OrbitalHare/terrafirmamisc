@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "terrafirmamisc:metal/chain/tin",
+    "terrafirmamisc:metal/cog/tin",
+    "terrafirmamisc:metal/foil/tin",
+    "terrafirmamisc:metal/nail/tin",
+    "terrafirmamisc:metal/plate/tin",
+    "terrafirmamisc:metal/ring/tin",
+    "terrafirmamisc:metal/screw/tin",
+    "terrafirmamisc:metal/spring/tin",
+    "terrafirmamisc:metal/wire/tin"
+  ]
+}

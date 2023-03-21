@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "terrafirmamisc:metal/chain/zinc",
+    "terrafirmamisc:metal/cog/zinc",
+    "terrafirmamisc:metal/foil/zinc",
+    "terrafirmamisc:metal/nail/zinc",
+    "terrafirmamisc:metal/plate/zinc",
+    "terrafirmamisc:metal/ring/zinc",
+    "terrafirmamisc:metal/screw/zinc",
+    "terrafirmamisc:metal/spring/zinc",
+    "terrafirmamisc:metal/wire/zinc"
+  ]
+}

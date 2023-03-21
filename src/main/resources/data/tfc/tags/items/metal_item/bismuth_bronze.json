@@ -1,7 +1,14 @@
 {
   "replace": false,
   "values": [
+    "terrafirmamisc:metal/chain/bismuth_bronze",
+    "terrafirmamisc:metal/cog/bismuth_bronze",
     "terrafirmamisc:metal/foil/bismuth_bronze",
-    "terrafirmamisc:metal/cog/bismuth_bronze"
+    "terrafirmamisc:metal/nail/bismuth_bronze",
+    "terrafirmamisc:metal/plate/bismuth_bronze",
+    "terrafirmamisc:metal/ring/bismuth_bronze",
+    "terrafirmamisc:metal/screw/bismuth_bronze",
+    "terrafirmamisc:metal/spring/bismuth_bronze",
+    "terrafirmamisc:metal/wire/bismuth_bronze"
   ]
 }

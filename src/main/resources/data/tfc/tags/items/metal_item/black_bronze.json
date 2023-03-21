@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "terrafirmamisc:metal/chain/black_bronze",
+     "terrafirmamisc:metal/cog/black_bronze",
+     "terrafirmamisc:metal/foil/black_bronze",
+     "terrafirmamisc:metal/nail/black_bronze",
+     "terrafirmamisc:metal/plate/black_bronze",
+     "terrafirmamisc:metal/ring/black_bronze",
+     "terrafirmamisc:metal/screw/black_bronze",
+     "terrafirmamisc:metal/spring/black_bronze",
+     "terrafirmamisc:metal/wire/black_bronze"
+  ]
+}

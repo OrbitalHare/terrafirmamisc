@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "terrafirmamisc:metal/chain/brass",
+    "terrafirmamisc:metal/cog/brass",
+    "terrafirmamisc:metal/foil/brass",
+    "terrafirmamisc:metal/nail/brass",
+    "terrafirmamisc:metal/plate/brass",
+    "terrafirmamisc:metal/ring/brass",
+    "terrafirmamisc:metal/screw/brass",
+    "terrafirmamisc:metal/spring/brass",
+    "terrafirmamisc:metal/wire/brass"
+  ]
+}

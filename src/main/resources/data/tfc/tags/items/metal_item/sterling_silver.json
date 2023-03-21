@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "terrafirmamisc:metal/chain/sterling_silver",
+    "terrafirmamisc:metal/cog/sterling_silver",
+    "terrafirmamisc:metal/foil/sterling_silver",
+    "terrafirmamisc:metal/nail/sterling_silver",
+    "terrafirmamisc:metal/plate/sterling_silver",
+    "terrafirmamisc:metal/ring/sterling_silver",
+    "terrafirmamisc:metal/screw/sterling_silver",
+    "terrafirmamisc:metal/spring/sterling_silver",
+    "terrafirmamisc:metal/wire/sterling_silver"
+  ]
+}
