@@ -1,0 +1,11 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "terrafirmamisc:metal/cog/tin"
+  },
+  "result_fluid": {
+    "fluid": "tfc:metal/tin",
+    "amount": 150
+  },
+  "temperature": 230
+}

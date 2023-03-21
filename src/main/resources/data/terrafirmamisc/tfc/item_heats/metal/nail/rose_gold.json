@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "item": "terrafirmamisc:metal/nail/rose_gold"
+  },
+  "heat_capacity": 0.715,
+  "forging_temperature": 576,
+  "welding_temperature": 768
+}

@@ -1,0 +1,14 @@
+{
+  "type": "tfc:anvil",
+  "input": {
+    "item": "tfc:metal/double_sheet/zinc"
+  },
+  "result": {
+    "item": "terrafirmamisc:metal/plate/zinc"
+  },
+  "tier": 1,
+  "rules": [
+    "hit_last",
+    "draw_second_last"
+  ]
+}

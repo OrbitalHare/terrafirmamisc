@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "item": "terrafirmamisc:metal/screw/bismuth"
+  },
+  "heat_capacity": 1.786,
+  "forging_temperature": 162,
+  "welding_temperature": 216
+}

@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "item": "terrafirmamisc:metal/nail/sterling_silver"
+  },
+  "heat_capacity": 0.715,
+  "forging_temperature": 570,
+  "welding_temperature": 760
+}

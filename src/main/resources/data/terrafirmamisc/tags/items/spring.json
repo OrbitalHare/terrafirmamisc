@@ -1,0 +1,26 @@
+{
+  "replace": false,
+  "values": [
+    "terrafirmamisc:metal/spring/bismuth",
+    "terrafirmamisc:metal/spring/bismuth_bronze",
+    "terrafirmamisc:metal/spring/black_bronze",
+    "terrafirmamisc:metal/spring/black_steel",
+    "terrafirmamisc:metal/spring/blue_steel",
+    "terrafirmamisc:metal/spring/brass",
+    "terrafirmamisc:metal/spring/bronze",
+    "terrafirmamisc:metal/spring/cast_iron",
+    "terrafirmamisc:metal/spring/copper",
+    "terrafirmamisc:metal/spring/gold",
+    "terrafirmamisc:metal/spring/nickel",
+    "terrafirmamisc:metal/spring/red_steel",
+    "terrafirmamisc:metal/spring/rose_gold",
+    "terrafirmamisc:metal/spring/silver",
+    "terrafirmamisc:metal/spring/steel",
+    "terrafirmamisc:metal/spring/sterling_silver",
+    "terrafirmamisc:metal/spring/tin",
+    "terrafirmamisc:metal/spring/wrought_iron",
+    "terrafirmamisc:metal/spring/zinc",
+    "terrafirmamisc:metal/spring/chromium",
+    "terrafirmamisc:metal/spring/stainless_steel"
+  ]
+}

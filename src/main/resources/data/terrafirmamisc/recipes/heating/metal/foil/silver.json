@@ -1,0 +1,11 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "terrafirmamisc:metal/foil/silver"
+  },
+  "result_fluid": {
+    "fluid": "tfc:metal/silver",
+    "amount": 100
+  },
+  "temperature": 961
+}

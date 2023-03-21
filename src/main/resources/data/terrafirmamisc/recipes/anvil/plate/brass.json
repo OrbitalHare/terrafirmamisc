@@ -1,0 +1,14 @@
+{
+  "type": "tfc:anvil",
+  "input": {
+    "item": "tfc:metal/double_sheet/brass"
+  },
+  "result": {
+    "item": "terrafirmamisc:metal/plate/brass"
+  },
+  "tier": 2,
+  "rules": [
+    "hit_last",
+    "draw_second_last"
+  ]
+}

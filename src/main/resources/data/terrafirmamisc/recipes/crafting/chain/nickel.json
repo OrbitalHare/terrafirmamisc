@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "terrafirmamisc:metal/ring/nickel"
+    },
+    {
+      "item": "terrafirmamisc:metal/ring/nickel"
+    },
+    {
+      "item": "terrafirmamisc:metal/ring/nickel"
+    }
+  ],
+  "result": {
+    "item": "terrafirmamisc:metal/chain/nickel"
+  }
+}

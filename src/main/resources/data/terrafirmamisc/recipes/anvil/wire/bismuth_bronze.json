@@ -1,0 +1,16 @@
+{
+  "type": "tfc:anvil",
+  "input": {
+    "item": "terrafirmamisc:metal/foil/bismuth_bronze"
+  },
+  "result": {
+    "item": "terrafirmamisc:metal/wire/bismuth_bronze",
+    "count": 4
+  },
+  "tier": 2,
+  "rules": [
+    "draw_last",
+    "punch_second_last",
+    "punch_third_last"
+  ]
+}

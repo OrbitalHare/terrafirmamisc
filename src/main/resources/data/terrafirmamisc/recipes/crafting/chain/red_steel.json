@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "terrafirmamisc:metal/ring/red_steel"
+    },
+    {
+      "item": "terrafirmamisc:metal/ring/red_steel"
+    },
+    {
+      "item": "terrafirmamisc:metal/ring/red_steel"
+    }
+  ],
+  "result": {
+    "item": "terrafirmamisc:metal/chain/red_steel"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "tfc:anvil",
+  "input": {
+    "item": "terrafirmamisc:metal/foil/wrought_iron"
+  },
+  "result": {
+    "item": "terrafirmamisc:metal/wire/wrought_iron",
+    "count": 4
+  },
+  "tier": 3,
+  "rules": [
+    "draw_last",
+    "punch_second_last",
+    "punch_third_last"
+  ]
+}

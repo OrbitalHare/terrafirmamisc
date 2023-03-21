@@ -1,0 +1,13 @@
+{
+  "type": "tfc:welding",
+  "first_input": {
+    "item": "terrafirmamisc:metal/foil/copper"
+  },
+  "second_input": {
+    "item": "terrafirmamisc:metal/ring/copper"
+  },
+  "tier": 1,
+  "result": {
+    "item": "terrafirmamisc:metal/cog/copper"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "tfc:anvil",
+  "input": {
+    "item": "tfc:metal/double_sheet/wrought_iron"
+  },
+  "result": {
+    "item": "terrafirmamisc:metal/plate/wrought_iron"
+  },
+  "tier": 3,
+  "rules": [
+    "hit_last",
+    "draw_second_last"
+  ]
+}

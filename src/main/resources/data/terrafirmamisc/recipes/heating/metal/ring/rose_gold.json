@@ -1,0 +1,11 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "terrafirmamisc:metal/ring/rose_gold"
+  },
+  "result_fluid": {
+    "fluid": "tfc:metal/rose_gold",
+    "amount": 50
+  },
+  "temperature": 960
+}

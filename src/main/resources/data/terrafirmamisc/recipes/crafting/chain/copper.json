@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "terrafirmamisc:metal/ring/copper"
+    },
+    {
+      "item": "terrafirmamisc:metal/ring/copper"
+    },
+    {
+      "item": "terrafirmamisc:metal/ring/copper"
+    }
+  ],
+  "result": {
+    "item": "terrafirmamisc:metal/chain/copper"
+  }
+}

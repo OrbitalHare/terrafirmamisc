@@ -1,0 +1,13 @@
+{
+  "type": "tfc:welding",
+  "first_input": {
+    "item": "terrafirmamisc:metal/wire/chromium"
+  },
+  "second_input": {
+    "item": "terrafirmamisc:metal/ring/chromium"
+  },
+  "tier": 4,
+  "result": {
+    "item": "terrafirmamisc:metal/spring/chromium"
+  }
+}

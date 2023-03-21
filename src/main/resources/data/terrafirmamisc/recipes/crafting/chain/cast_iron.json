@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "terrafirmamisc:metal/ring/cast_iron"
+    },
+    {
+      "item": "terrafirmamisc:metal/ring/cast_iron"
+    },
+    {
+      "item": "terrafirmamisc:metal/ring/cast_iron"
+    }
+  ],
+  "result": {
+    "item": "terrafirmamisc:metal/chain/cast_iron"
+  }
+}

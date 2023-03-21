@@ -1,0 +1,13 @@
+{
+  "type": "tfc:clay_knapping",
+  "pattern": [
+    "XXXXX",
+    "X   X",
+    "XX XX",
+    "XX XX",
+    "XXXXX"
+  ],
+  "result": {
+    "item": "terrafirmamisc:ceramic/unfired_nail_mold"
+  }
+}

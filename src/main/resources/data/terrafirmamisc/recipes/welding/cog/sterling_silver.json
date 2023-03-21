@@ -1,0 +1,13 @@
+{
+  "type": "tfc:welding",
+  "first_input": {
+    "item": "terrafirmamisc:metal/foil/sterling_silver"
+  },
+  "second_input": {
+    "item": "terrafirmamisc:metal/ring/sterling_silver"
+  },
+  "tier": 1,
+  "result": {
+    "item": "terrafirmamisc:metal/cog/sterling_silver"
+  }
+}

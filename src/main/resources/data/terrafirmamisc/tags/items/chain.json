@@ -1,0 +1,26 @@
+{
+  "replace": false,
+  "values": [
+    "terrafirmamisc:metal/chain/bismuth",
+    "terrafirmamisc:metal/chain/bismuth_bronze",
+    "terrafirmamisc:metal/chain/black_bronze",
+    "terrafirmamisc:metal/chain/black_steel",
+    "terrafirmamisc:metal/chain/blue_steel",
+    "terrafirmamisc:metal/chain/brass",
+    "terrafirmamisc:metal/chain/bronze",
+    "terrafirmamisc:metal/chain/cast_iron",
+    "terrafirmamisc:metal/chain/copper",
+    "terrafirmamisc:metal/chain/gold",
+    "terrafirmamisc:metal/chain/nickel",
+    "terrafirmamisc:metal/chain/red_steel",
+    "terrafirmamisc:metal/chain/rose_gold",
+    "terrafirmamisc:metal/chain/silver",
+    "terrafirmamisc:metal/chain/steel",
+    "terrafirmamisc:metal/chain/sterling_silver",
+    "terrafirmamisc:metal/chain/tin",
+    "terrafirmamisc:metal/chain/wrought_iron",
+    "terrafirmamisc:metal/chain/zinc",
+    "terrafirmamisc:metal/chain/chromium",
+    "terrafirmamisc:metal/chain/stainless_steel"
+  ]
+}

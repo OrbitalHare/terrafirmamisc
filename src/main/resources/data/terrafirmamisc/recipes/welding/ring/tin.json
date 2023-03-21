@@ -1,0 +1,13 @@
+{
+  "type": "tfc:welding",
+  "first_input": {
+    "item": "terrafirmamisc:metal/wire/tin"
+  },
+  "second_input": {
+    "item": "terrafirmamisc:metal/wire/tin"
+  },
+  "tier": 1,
+  "result": {
+    "item": "terrafirmamisc:metal/ring/tin"
+  }
+}

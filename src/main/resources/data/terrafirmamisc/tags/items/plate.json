@@ -1,0 +1,26 @@
+{
+  "replace": false,
+  "values": [
+    "terrafirmamisc:metal/plate/bismuth",
+    "terrafirmamisc:metal/plate/bismuth_bronze",
+    "terrafirmamisc:metal/plate/black_bronze",
+    "terrafirmamisc:metal/plate/black_steel",
+    "terrafirmamisc:metal/plate/blue_steel",
+    "terrafirmamisc:metal/plate/brass",
+    "terrafirmamisc:metal/plate/bronze",
+    "terrafirmamisc:metal/plate/cast_iron",
+    "terrafirmamisc:metal/plate/copper",
+    "terrafirmamisc:metal/plate/gold",
+    "terrafirmamisc:metal/plate/nickel",
+    "terrafirmamisc:metal/plate/red_steel",
+    "terrafirmamisc:metal/plate/rose_gold",
+    "terrafirmamisc:metal/plate/silver",
+    "terrafirmamisc:metal/plate/steel",
+    "terrafirmamisc:metal/plate/sterling_silver",
+    "terrafirmamisc:metal/plate/tin",
+    "terrafirmamisc:metal/plate/wrought_iron",
+    "terrafirmamisc:metal/plate/zinc",
+    "terrafirmamisc:metal/plate/chromium",
+    "terrafirmamisc:metal/plate/stainless_steel"
+  ]
+}

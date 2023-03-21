@@ -1,0 +1,11 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "terrafirmamisc:metal/cog/bronze"
+  },
+  "result_fluid": {
+    "fluid": "tfc:metal/bronze",
+    "amount": 150
+  },
+  "temperature": 950
+}

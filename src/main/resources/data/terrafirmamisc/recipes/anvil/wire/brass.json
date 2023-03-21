@@ -1,0 +1,16 @@
+{
+  "type": "tfc:anvil",
+  "input": {
+    "item": "terrafirmamisc:metal/foil/brass"
+  },
+  "result": {
+    "item": "terrafirmamisc:metal/wire/brass",
+    "count": 4
+  },
+  "tier": 2,
+  "rules": [
+    "draw_last",
+    "punch_second_last",
+    "punch_third_last"
+  ]
+}

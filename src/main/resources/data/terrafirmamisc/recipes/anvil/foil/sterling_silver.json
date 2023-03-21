@@ -1,0 +1,16 @@
+{
+  "type": "tfc:anvil",
+  "input": {
+    "item": "tfc:metal/sheet/sterling_silver"
+  },
+  "result": {
+    "item": "terrafirmamisc:metal/foil/sterling_silver",
+    "count": 2
+  },
+  "tier": 1,
+  "rules": [
+    "hit_last",
+    "upset_second_last",
+    "draw_third_last"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "terrafirmamisc:ceramic/unfired_nail_mold"
+  },
+  "result_item": {
+    "item": "terrafirmamisc:ceramic/nail_mold"
+  },
+  "temperature": 1399
+}

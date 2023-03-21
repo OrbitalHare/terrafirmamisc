@@ -1,0 +1,13 @@
+{
+  "type": "tfc:welding",
+  "first_input": {
+    "item": "terrafirmamisc:metal/wire/cast_iron"
+  },
+  "second_input": {
+    "item": "terrafirmamisc:metal/wire/cast_iron"
+  },
+  "tier": 1,
+  "result": {
+    "item": "terrafirmamisc:metal/ring/cast_iron"
+  }
+}

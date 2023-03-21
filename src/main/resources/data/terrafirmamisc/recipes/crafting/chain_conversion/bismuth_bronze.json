@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "terrafirmamisc:metal/chain/bismuth_bronze"
+    }
+  ],
+  "result": {
+    "item": "tfc:metal/chain/bismuth_bronze",
+    "count": 25
+  }
+}

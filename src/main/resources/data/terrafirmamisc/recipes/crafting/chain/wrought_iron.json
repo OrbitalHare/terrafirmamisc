@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "terrafirmamisc:metal/ring/wrought_iron"
+    },
+    {
+      "item": "terrafirmamisc:metal/ring/wrought_iron"
+    },
+    {
+      "item": "terrafirmamisc:metal/ring/wrought_iron"
+    }
+  ],
+  "result": {
+    "item": "terrafirmamisc:metal/chain/wrought_iron"
+  }
+}

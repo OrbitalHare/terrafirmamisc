@@ -1,0 +1,13 @@
+{
+  "type": "tfc:welding",
+  "first_input": {
+    "item": "terrafirmamisc:metal/foil/black_steel"
+  },
+  "second_input": {
+    "item": "terrafirmamisc:metal/ring/black_steel"
+  },
+  "tier": 5,
+  "result": {
+    "item": "terrafirmamisc:metal/cog/black_steel"
+  }
+}

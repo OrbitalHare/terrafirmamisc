@@ -1,0 +1,11 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "terrafirmamisc:metal/nail/copper"
+  },
+  "result_fluid": {
+    "fluid": "tfc:metal/copper",
+    "amount": 15
+  },
+  "temperature": 1080
+}

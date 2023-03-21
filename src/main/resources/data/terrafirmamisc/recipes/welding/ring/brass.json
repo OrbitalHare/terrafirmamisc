@@ -1,0 +1,13 @@
+{
+  "type": "tfc:welding",
+  "first_input": {
+    "item": "terrafirmamisc:metal/wire/brass"
+  },
+  "second_input": {
+    "item": "terrafirmamisc:metal/wire/brass"
+  },
+  "tier": 2,
+  "result": {
+    "item": "terrafirmamisc:metal/ring/brass"
+  }
+}

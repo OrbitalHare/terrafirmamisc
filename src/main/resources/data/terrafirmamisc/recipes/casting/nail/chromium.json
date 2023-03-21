@@ -1,0 +1,21 @@
+{
+  "type": "tfc:casting",
+  "mold": {
+    "item": "terrafirmamisc:ceramic/nail_mold"
+  },
+  "fluid": {
+    "ingredient": "firmalife:metal/chromium",
+    "amount": 60
+  },
+  "result": {
+    "item": "terrafirmamisc:metal/nail/chromium",
+    "count": 4
+  },
+  "break_chance": 0.1,
+  "conditions": [
+    {
+      "modid": "firmalife",
+      "type": "forge:mod_loaded"
+    }
+  ]
+}

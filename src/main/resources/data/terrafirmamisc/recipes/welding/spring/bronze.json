@@ -1,0 +1,13 @@
+{
+  "type": "tfc:welding",
+  "first_input": {
+    "item": "terrafirmamisc:metal/wire/bronze"
+  },
+  "second_input": {
+    "item": "terrafirmamisc:metal/ring/bronze"
+  },
+  "tier": 2,
+  "result": {
+    "item": "terrafirmamisc:metal/spring/bronze"
+  }
+}

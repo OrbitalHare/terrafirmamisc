@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "item": "terrafirmamisc:metal/screw/stainless_steel"
+  },
+  "heat_capacity": 0.715,
+  "forging_temperature": 924,
+  "welding_temperature": 1232
+}

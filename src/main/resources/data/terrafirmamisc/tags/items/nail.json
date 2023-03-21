@@ -1,0 +1,26 @@
+{
+  "replace": false,
+  "values": [
+    "terrafirmamisc:metal/nail/bismuth",
+    "terrafirmamisc:metal/nail/bismuth_bronze",
+    "terrafirmamisc:metal/nail/black_bronze",
+    "terrafirmamisc:metal/nail/black_steel",
+    "terrafirmamisc:metal/nail/blue_steel",
+    "terrafirmamisc:metal/nail/brass",
+    "terrafirmamisc:metal/nail/bronze",
+    "terrafirmamisc:metal/nail/cast_iron",
+    "terrafirmamisc:metal/nail/copper",
+    "terrafirmamisc:metal/nail/gold",
+    "terrafirmamisc:metal/nail/nickel",
+    "terrafirmamisc:metal/nail/red_steel",
+    "terrafirmamisc:metal/nail/rose_gold",
+    "terrafirmamisc:metal/nail/silver",
+    "terrafirmamisc:metal/nail/steel",
+    "terrafirmamisc:metal/nail/sterling_silver",
+    "terrafirmamisc:metal/nail/tin",
+    "terrafirmamisc:metal/nail/wrought_iron",
+    "terrafirmamisc:metal/nail/zinc",
+    "terrafirmamisc:metal/nail/chromium",
+    "terrafirmamisc:metal/nail/stainless_steel"
+  ]
+}

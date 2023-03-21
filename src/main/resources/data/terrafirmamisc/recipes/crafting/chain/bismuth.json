@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "terrafirmamisc:metal/ring/bismuth"
+    },
+    {
+      "item": "terrafirmamisc:metal/ring/bismuth"
+    },
+    {
+      "item": "terrafirmamisc:metal/ring/bismuth"
+    }
+  ],
+  "result": {
+    "item": "terrafirmamisc:metal/chain/bismuth"
+  }
+}

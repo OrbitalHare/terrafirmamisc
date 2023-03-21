@@ -1,0 +1,26 @@
+{
+  "replace": false,
+  "values": [
+    "terrafirmamisc:metal/cog/bismuth",
+    "terrafirmamisc:metal/cog/bismuth_bronze",
+    "terrafirmamisc:metal/cog/black_bronze",
+    "terrafirmamisc:metal/cog/black_steel",
+    "terrafirmamisc:metal/cog/blue_steel",
+    "terrafirmamisc:metal/cog/brass",
+    "terrafirmamisc:metal/cog/bronze",
+    "terrafirmamisc:metal/cog/cast_iron",
+    "terrafirmamisc:metal/cog/copper",
+    "terrafirmamisc:metal/cog/gold",
+    "terrafirmamisc:metal/cog/nickel",
+    "terrafirmamisc:metal/cog/red_steel",
+    "terrafirmamisc:metal/cog/rose_gold",
+    "terrafirmamisc:metal/cog/silver",
+    "terrafirmamisc:metal/cog/steel",
+    "terrafirmamisc:metal/cog/sterling_silver",
+    "terrafirmamisc:metal/cog/tin",
+    "terrafirmamisc:metal/cog/wrought_iron",
+    "terrafirmamisc:metal/cog/zinc",
+    "terrafirmamisc:metal/cog/chromium",
+    "terrafirmamisc:metal/cog/stainless_steel"
+  ]
+}

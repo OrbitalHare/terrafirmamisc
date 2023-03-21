@@ -1,0 +1,16 @@
+{
+  "type": "tfc:anvil",
+  "input": {
+    "item": "tfc:metal/sheet/zinc"
+  },
+  "result": {
+    "item": "terrafirmamisc:metal/foil/zinc",
+    "count": 2
+  },
+  "tier": 1,
+  "rules": [
+    "hit_last",
+    "upset_second_last",
+    "draw_third_last"
+  ]
+}

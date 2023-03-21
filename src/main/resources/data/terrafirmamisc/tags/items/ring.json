@@ -1,0 +1,26 @@
+{
+  "replace": false,
+  "values": [
+    "terrafirmamisc:metal/ring/bismuth",
+    "terrafirmamisc:metal/ring/bismuth_bronze",
+    "terrafirmamisc:metal/ring/black_bronze",
+    "terrafirmamisc:metal/ring/black_steel",
+    "terrafirmamisc:metal/ring/blue_steel",
+    "terrafirmamisc:metal/ring/brass",
+    "terrafirmamisc:metal/ring/bronze",
+    "terrafirmamisc:metal/ring/cast_iron",
+    "terrafirmamisc:metal/ring/copper",
+    "terrafirmamisc:metal/ring/gold",
+    "terrafirmamisc:metal/ring/nickel",
+    "terrafirmamisc:metal/ring/red_steel",
+    "terrafirmamisc:metal/ring/rose_gold",
+    "terrafirmamisc:metal/ring/silver",
+    "terrafirmamisc:metal/ring/steel",
+    "terrafirmamisc:metal/ring/sterling_silver",
+    "terrafirmamisc:metal/ring/tin",
+    "terrafirmamisc:metal/ring/wrought_iron",
+    "terrafirmamisc:metal/ring/zinc",
+    "terrafirmamisc:metal/ring/chromium",
+    "terrafirmamisc:metal/ring/stainless_steel"
+  ]
+}

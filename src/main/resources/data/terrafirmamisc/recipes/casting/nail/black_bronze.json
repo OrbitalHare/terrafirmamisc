@@ -1,0 +1,15 @@
+{
+  "type": "tfc:casting",
+  "mold": {
+    "item": "terrafirmamisc:ceramic/nail_mold"
+  },
+  "fluid": {
+    "ingredient": "tfc:metal/black_bronze",
+    "amount": 60
+  },
+  "result": {
+    "item": "terrafirmamisc:metal/nail/black_bronze",
+    "count": 4
+  },
+  "break_chance": 0.1
+}

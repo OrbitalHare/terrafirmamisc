@@ -1,0 +1,16 @@
+{
+  "type": "tfc:anvil",
+  "input": {
+    "item": "terrafirmamisc:metal/foil/black_steel"
+  },
+  "result": {
+    "item": "terrafirmamisc:metal/wire/black_steel",
+    "count": 4
+  },
+  "tier": 5,
+  "rules": [
+    "draw_last",
+    "punch_second_last",
+    "punch_third_last"
+  ]
+}

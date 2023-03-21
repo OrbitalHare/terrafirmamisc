@@ -1,0 +1,17 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "terrafirmamisc:metal/nail/chromium"
+  },
+  "result_fluid": {
+    "fluid": "firmalife:metal/chromium",
+    "amount": 15
+  },
+  "temperature": 1250,
+  "conditions": [
+    {
+      "modid": "firmalife",
+      "type": "forge:mod_loaded"
+    }
+  ]
+}

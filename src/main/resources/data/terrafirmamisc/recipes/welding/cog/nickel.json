@@ -1,0 +1,13 @@
+{
+  "type": "tfc:welding",
+  "first_input": {
+    "item": "terrafirmamisc:metal/foil/nickel"
+  },
+  "second_input": {
+    "item": "terrafirmamisc:metal/ring/nickel"
+  },
+  "tier": 1,
+  "result": {
+    "item": "terrafirmamisc:metal/cog/nickel"
+  }
+}

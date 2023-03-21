@@ -1,0 +1,22 @@
+{
+  "type": "tfc:anvil",
+  "input": {
+    "item": "firmalife:metal/sheet/stainless_steel"
+  },
+  "result": {
+    "item": "terrafirmamisc:metal/foil/stainless_steel",
+    "count": 2
+  },
+  "tier": 4,
+  "rules": [
+    "hit_last",
+    "upset_second_last",
+    "draw_third_last"
+  ],
+  "conditions": [
+    {
+      "modid": "firmalife",
+      "type": "forge:mod_loaded"
+    }
+  ]
+}

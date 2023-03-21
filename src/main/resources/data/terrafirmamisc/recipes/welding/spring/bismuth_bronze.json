@@ -1,0 +1,13 @@
+{
+  "type": "tfc:welding",
+  "first_input": {
+    "item": "terrafirmamisc:metal/wire/bismuth_bronze"
+  },
+  "second_input": {
+    "item": "terrafirmamisc:metal/ring/bismuth_bronze"
+  },
+  "tier": 2,
+  "result": {
+    "item": "terrafirmamisc:metal/spring/bismuth_bronze"
+  }
+}

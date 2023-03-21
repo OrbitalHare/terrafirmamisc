@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "item": "terrafirmamisc:metal/ring/black_steel"
+  },
+  "heat_capacity": 1.429,
+  "forging_temperature": 891,
+  "welding_temperature": 1188
+}

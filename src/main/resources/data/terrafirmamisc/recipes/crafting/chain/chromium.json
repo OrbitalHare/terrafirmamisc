@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "terrafirmamisc:metal/ring/chromium"
+    },
+    {
+      "item": "terrafirmamisc:metal/ring/chromium"
+    },
+    {
+      "item": "terrafirmamisc:metal/ring/chromium"
+    }
+  ],
+  "result": {
+    "item": "terrafirmamisc:metal/chain/chromium"
+  }
+}

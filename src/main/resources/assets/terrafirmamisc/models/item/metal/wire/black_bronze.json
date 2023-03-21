@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "terrafirmamisc:item/metal/wire/black_bronze"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "tfc:welding",
+  "first_input": {
+    "item": "terrafirmamisc:metal/wire/wrought_iron"
+  },
+  "second_input": {
+    "item": "terrafirmamisc:metal/wire/wrought_iron"
+  },
+  "tier": 3,
+  "result": {
+    "item": "terrafirmamisc:metal/ring/wrought_iron"
+  }
+}

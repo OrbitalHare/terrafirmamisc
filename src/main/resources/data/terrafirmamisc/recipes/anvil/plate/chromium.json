@@ -1,0 +1,20 @@
+{
+  "type": "tfc:anvil",
+  "input": {
+    "item": "firmalife:metal/double_sheet/chromium"
+  },
+  "result": {
+    "item": "terrafirmamisc:metal/plate/chromium"
+  },
+  "tier": 4,
+  "rules": [
+    "hit_last",
+    "draw_second_last"
+  ],
+  "conditions": [
+    {
+      "modid": "firmalife",
+      "type": "forge:mod_loaded"
+    }
+  ]
+}

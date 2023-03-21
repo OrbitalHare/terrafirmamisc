@@ -1,0 +1,26 @@
+{
+  "replace": false,
+  "values": [
+    "terrafirmamisc:metal/screw/bismuth",
+    "terrafirmamisc:metal/screw/bismuth_bronze",
+    "terrafirmamisc:metal/screw/black_bronze",
+    "terrafirmamisc:metal/screw/black_steel",
+    "terrafirmamisc:metal/screw/blue_steel",
+    "terrafirmamisc:metal/screw/brass",
+    "terrafirmamisc:metal/screw/bronze",
+    "terrafirmamisc:metal/screw/cast_iron",
+    "terrafirmamisc:metal/screw/copper",
+    "terrafirmamisc:metal/screw/gold",
+    "terrafirmamisc:metal/screw/nickel",
+    "terrafirmamisc:metal/screw/red_steel",
+    "terrafirmamisc:metal/screw/rose_gold",
+    "terrafirmamisc:metal/screw/silver",
+    "terrafirmamisc:metal/screw/steel",
+    "terrafirmamisc:metal/screw/sterling_silver",
+    "terrafirmamisc:metal/screw/tin",
+    "terrafirmamisc:metal/screw/wrought_iron",
+    "terrafirmamisc:metal/screw/zinc",
+    "terrafirmamisc:metal/screw/chromium",
+    "terrafirmamisc:metal/screw/stainless_steel"
+  ]
+}

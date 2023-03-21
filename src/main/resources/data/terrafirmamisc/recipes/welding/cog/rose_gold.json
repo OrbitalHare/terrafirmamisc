@@ -1,0 +1,13 @@
+{
+  "type": "tfc:welding",
+  "first_input": {
+    "item": "terrafirmamisc:metal/foil/rose_gold"
+  },
+  "second_input": {
+    "item": "terrafirmamisc:metal/ring/rose_gold"
+  },
+  "tier": 1,
+  "result": {
+    "item": "terrafirmamisc:metal/cog/rose_gold"
+  }
+}

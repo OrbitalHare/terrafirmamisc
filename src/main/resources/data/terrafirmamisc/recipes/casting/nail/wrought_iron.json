@@ -1,0 +1,15 @@
+{
+  "type": "tfc:casting",
+  "mold": {
+    "item": "terrafirmamisc:ceramic/nail_mold"
+  },
+  "fluid": {
+    "ingredient": "tfc:metal/wrought_iron",
+    "amount": 60
+  },
+  "result": {
+    "item": "terrafirmamisc:metal/nail/wrought_iron",
+    "count": 4
+  },
+  "break_chance": 0.1
+}

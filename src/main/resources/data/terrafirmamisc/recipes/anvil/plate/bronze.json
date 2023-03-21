@@ -1,0 +1,14 @@
+{
+  "type": "tfc:anvil",
+  "input": {
+    "item": "tfc:metal/double_sheet/bronze"
+  },
+  "result": {
+    "item": "terrafirmamisc:metal/plate/bronze"
+  },
+  "tier": 2,
+  "rules": [
+    "hit_last",
+    "draw_second_last"
+  ]
+}

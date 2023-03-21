@@ -1,0 +1,26 @@
+{
+  "replace": false,
+  "values": [
+    "terrafirmamisc:metal/wire/bismuth",
+    "terrafirmamisc:metal/wire/bismuth_bronze",
+    "terrafirmamisc:metal/wire/black_bronze",
+    "terrafirmamisc:metal/wire/black_steel",
+    "terrafirmamisc:metal/wire/blue_steel",
+    "terrafirmamisc:metal/wire/brass",
+    "terrafirmamisc:metal/wire/bronze",
+    "terrafirmamisc:metal/wire/cast_iron",
+    "terrafirmamisc:metal/wire/copper",
+    "terrafirmamisc:metal/wire/gold",
+    "terrafirmamisc:metal/wire/nickel",
+    "terrafirmamisc:metal/wire/red_steel",
+    "terrafirmamisc:metal/wire/rose_gold",
+    "terrafirmamisc:metal/wire/silver",
+    "terrafirmamisc:metal/wire/steel",
+    "terrafirmamisc:metal/wire/sterling_silver",
+    "terrafirmamisc:metal/wire/tin",
+    "terrafirmamisc:metal/wire/wrought_iron",
+    "terrafirmamisc:metal/wire/zinc",
+    "terrafirmamisc:metal/wire/chromium",
+    "terrafirmamisc:metal/wire/stainless_steel"
+  ]
+}

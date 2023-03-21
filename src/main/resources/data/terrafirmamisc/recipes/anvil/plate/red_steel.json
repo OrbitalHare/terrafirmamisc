@@ -1,0 +1,14 @@
+{
+  "type": "tfc:anvil",
+  "input": {
+    "item": "tfc:metal/double_sheet/red_steel"
+  },
+  "result": {
+    "item": "terrafirmamisc:metal/plate/red_steel"
+  },
+  "tier": 6,
+  "rules": [
+    "hit_last",
+    "draw_second_last"
+  ]
+}

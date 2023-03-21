@@ -1,0 +1,11 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "terrafirmamisc:metal/spring/copper"
+  },
+  "result_fluid": {
+    "fluid": "tfc:metal/copper",
+    "amount": 75
+  },
+  "temperature": 1080
+}

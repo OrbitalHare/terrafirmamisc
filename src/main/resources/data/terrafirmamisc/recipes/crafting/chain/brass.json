@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "terrafirmamisc:metal/ring/brass"
+    },
+    {
+      "item": "terrafirmamisc:metal/ring/brass"
+    },
+    {
+      "item": "terrafirmamisc:metal/ring/brass"
+    }
+  ],
+  "result": {
+    "item": "terrafirmamisc:metal/chain/brass"
+  }
+}

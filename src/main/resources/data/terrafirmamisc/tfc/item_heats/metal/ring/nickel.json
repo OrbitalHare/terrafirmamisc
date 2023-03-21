@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "item": "terrafirmamisc:metal/ring/nickel"
+  },
+  "heat_capacity": 1.042,
+  "forging_temperature": 872,
+  "welding_temperature": 1162
+}

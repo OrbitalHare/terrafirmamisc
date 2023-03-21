@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "terrafirmamisc:metal/ring/zinc"
+    },
+    {
+      "item": "terrafirmamisc:metal/ring/zinc"
+    },
+    {
+      "item": "terrafirmamisc:metal/ring/zinc"
+    }
+  ],
+  "result": {
+    "item": "terrafirmamisc:metal/chain/zinc"
+  }
+}

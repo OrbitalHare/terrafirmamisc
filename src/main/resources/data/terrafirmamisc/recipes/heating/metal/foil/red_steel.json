@@ -1,0 +1,11 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "terrafirmamisc:metal/foil/red_steel"
+  },
+  "result_fluid": {
+    "fluid": "tfc:metal/red_steel",
+    "amount": 100
+  },
+  "temperature": 1540
+}

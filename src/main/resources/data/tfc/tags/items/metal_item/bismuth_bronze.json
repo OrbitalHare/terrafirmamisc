@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "terrafirmamisc:metal/foil/bismuth_bronze",
+    "terrafirmamisc:metal/cog/bismuth_bronze"
+  ]
+}

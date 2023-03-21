@@ -1,0 +1,32 @@
+modLoader = "javafml" #mandatory
+loaderVersion = "[40,)"
+license = "All Rights Reserved"
+[[mods]] #mandatory
+# The modid of the mod
+modId = "terrafirmamisc" #mandatory
+version = "${file.jarVersion}" #mandatory
+# A display name for the mod
+displayName = "TerraFirmaMisc" #mandatory
+authors = "OrbitalHare" #optional
+# The description text for the mod (multi line!) (#mandatory)
+description = '''
+Terrafirmacraft addon
+'''
+[[dependencies.terrafirmamisc]]
+modId="tfc"
+mandatory=true
+versionRange="[0,)"
+ordering="AFTER"
+side="BOTH"
+[[dependencies.terrafirmamisc]] #optional
+modId = "forge" #mandatory
+mandatory = true #mandatory
+versionRange = "[40,)" #mandatory
+ordering = "NONE"
+side = "BOTH"
+[[dependencies.terrafirmamisc]]
+modId = "minecraft"
+mandatory = true
+versionRange = "[1.18.2,1.19)"
+ordering = "NONE"
+side = "BOTH"
