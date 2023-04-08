@@ -24,14 +24,15 @@ import static me.orbitalhare.terrafirmamisc.config.TFMConfig.*;
 public class ModItems {
     
     public static final DeferredRegister<Item> ITEMS = DeferredRegister.create(ForgeRegistries.ITEMS, Terrafirmamisc.MOD_ID);
-    
+
+    //Metal Items
     public static final Map<MetalItems.TFCMetals, Map<MetalItems.ItemType, RegistryObject<Item>>> METAL_ITEMS = Helpers.mapOfKeys(MetalItems.TFCMetals.class, metal ->
         Helpers.mapOfKeys(MetalItems.ItemType.class, type ->
             register("metal/" + type.name() + "/" + metal.name(), () -> new Item(metal_properties()))
         )
     );
     
-    
+    //Firmalife Metal Items
     public static final Map<MetalItems.FLMetals, Map<MetalItems.ItemType, RegistryObject<Item>>> FL_METAL_ITEMS = Helpers.mapOfKeys(MetalItems.FLMetals.class, metal ->
             Helpers.mapOfKeys(MetalItems.ItemType.class, type ->
                     register("metal/" + type.name() + "/" + metal.name(), () -> new Item(metal_properties()))

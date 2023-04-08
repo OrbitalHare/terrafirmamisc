@@ -1,5 +1,8 @@
 package me.orbitalhare.terrafirmamisc;
 
+import me.orbitalhare.terrafirmamisc.common.container.TFMContainerTypes;
+import me.orbitalhare.terrafirmamisc.common.recipes.TFMRecipeSerializers;
+import me.orbitalhare.terrafirmamisc.common.recipes.TFMRecipeTypes;
 import me.orbitalhare.terrafirmamisc.config.TFMConfig;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.eventbus.api.IEventBus;
@@ -26,7 +29,9 @@ public class Terrafirmamisc {
     
         ModItems.ITEMS.register(bus);
         ModBlocks.BLOCKS.register(bus);
-        
+        TFMRecipeTypes.RECIPE_TYPES.register(bus);
+        TFMRecipeSerializers.RECIPE_SERIALIZERS.register(bus);
+        TFMContainerTypes.CONTAINERS.register(bus);
         
         TFMConfig.register();
         
@@ -37,6 +42,10 @@ public class Terrafirmamisc {
     }
     
     private void setup(final FMLCommonSetupEvent event) {
+
+        // Vanilla registries are not thread safe
+        event.enqueueWork(() -> {
+        });
 
     }
 }
