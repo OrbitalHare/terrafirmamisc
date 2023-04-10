@@ -11,7 +11,7 @@ import java.util.function.Supplier;
 
 
 @SuppressWarnings("unused")
-public class ModBlocks {
+public class TFMBlocks {
     public static final DeferredRegister<Block> BLOCKS =
         DeferredRegister.create(ForgeRegistries.BLOCKS, Terrafirmamisc.MOD_ID);
     

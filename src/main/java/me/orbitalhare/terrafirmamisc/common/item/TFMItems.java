@@ -9,8 +9,6 @@ import net.dries007.tfc.common.items.MoldItem;
 import net.dries007.tfc.util.Helpers;
 
 import net.minecraft.world.item.Item;
-import net.minecraftforge.fml.ModList;
-import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
 import net.minecraftforge.registries.RegistryObject;
@@ -21,7 +19,7 @@ import java.util.function.Supplier;
 import static me.orbitalhare.terrafirmamisc.config.TFMConfig.*;
 
 @SuppressWarnings("unused")
-public class ModItems {
+public class TFMItems {
     
     public static final DeferredRegister<Item> ITEMS = DeferredRegister.create(ForgeRegistries.ITEMS, Terrafirmamisc.MOD_ID);
 

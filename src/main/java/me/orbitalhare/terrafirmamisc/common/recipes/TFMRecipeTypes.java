@@ -14,11 +14,14 @@ public class TFMRecipeTypes {
     public static final DeferredRegister<RecipeType<?>> RECIPE_TYPES = DeferredRegister.create(Registry.RECIPE_TYPE_REGISTRY, MOD_ID);
 
     public static final RegistryObject<RecipeType<KnappingRecipe>> STRAW_KNAPPING = register("straw_knapping");
-
-    private static <R extends Recipe<?>> RegistryObject<RecipeType<R>> register(String name) {
+    
+    
+    private static <R extends Recipe<?>> RegistryObject<RecipeType<R>> register(String name)
+    {
         return RECIPE_TYPES.register(name, () -> new RecipeType<>() {
             @Override
-            public String toString() {
+            public String toString()
+            {
                 return TFMHelpers.identifier(name).toString();
             }
         });
