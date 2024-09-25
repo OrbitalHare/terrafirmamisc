@@ -1,0 +1,14 @@
+{
+  "type": "tfc:anvil",
+  "input": {
+    "item": "terrafirmamisc:metal/wire/black_steel"
+  },
+  "result": {
+    "item": "terrafirmamisc:metal/ring/black_steel",
+    "count": 5
+  },
+  "tier": 5,
+  "rules": [
+    "punch_last"
+  ]
+}

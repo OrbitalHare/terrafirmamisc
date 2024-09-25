@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    "terrafirmamisc:metal/crossbar/aluminium",
+    "terrafirmamisc:metal/crossbar/bismuth",
+    "terrafirmamisc:metal/crossbar/bismuth_bronze",
+    "terrafirmamisc:metal/crossbar/black_bronze",
+    "terrafirmamisc:metal/crossbar/black_steel",
+    "terrafirmamisc:metal/crossbar/blue_steel",
+    "terrafirmamisc:metal/crossbar/brass",
+    "terrafirmamisc:metal/crossbar/bronze",
+    "terrafirmamisc:metal/crossbar/cast_iron",
+    "terrafirmamisc:metal/crossbar/copper",
+    "terrafirmamisc:metal/crossbar/gold",
+    "terrafirmamisc:metal/crossbar/nickel",
+    "terrafirmamisc:metal/crossbar/platinum",
+    "terrafirmamisc:metal/crossbar/red_steel",
+    "terrafirmamisc:metal/crossbar/rose_gold",
+    "terrafirmamisc:metal/crossbar/silver",
+    "terrafirmamisc:metal/crossbar/steel",
+    "terrafirmamisc:metal/crossbar/sterling_silver",
+    "terrafirmamisc:metal/crossbar/tin",
+    "terrafirmamisc:metal/crossbar/titanium",
+    "terrafirmamisc:metal/crossbar/wrought_iron",
+    "terrafirmamisc:metal/crossbar/zinc",
+    "terrafirmamisc:metal/crossbar/chromium",
+    "terrafirmamisc:metal/crossbar/stainless_steel"
+  ]
+}

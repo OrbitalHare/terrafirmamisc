@@ -1,0 +1,95 @@
+{
+  "type": "tfc:soil_disc",
+  "config": {
+    "min_radius": 1,
+    "max_radius": 3,
+    "height": 2,
+    "integrity": 0.9,
+    "states": [
+      {
+        "replace": "tfc:rock/gravel/granite",
+        "with": "terrafirmamisc:deposit/native_platinum/granite"
+      },
+      {
+        "replace": "tfc:rock/gravel/diorite",
+        "with": "terrafirmamisc:deposit/native_platinum/diorite"
+      },
+      {
+        "replace": "tfc:rock/gravel/gabbro",
+        "with": "terrafirmamisc:deposit/native_platinum/gabbro"
+      },
+      {
+        "replace": "tfc:rock/gravel/shale",
+        "with": "terrafirmamisc:deposit/native_platinum/shale"
+      },
+      {
+        "replace": "tfc:rock/gravel/claystone",
+        "with": "terrafirmamisc:deposit/native_platinum/claystone"
+      },
+      {
+        "replace": "tfc:rock/gravel/limestone",
+        "with": "terrafirmamisc:deposit/native_platinum/limestone"
+      },
+      {
+        "replace": "tfc:rock/gravel/conglomerate",
+        "with": "terrafirmamisc:deposit/native_platinum/conglomerate"
+      },
+      {
+        "replace": "tfc:rock/gravel/dolomite",
+        "with": "terrafirmamisc:deposit/native_platinum/dolomite"
+      },
+      {
+        "replace": "tfc:rock/gravel/chert",
+        "with": "terrafirmamisc:deposit/native_platinum/chert"
+      },
+      {
+        "replace": "tfc:rock/gravel/chalk",
+        "with": "terrafirmamisc:deposit/native_platinum/chalk"
+      },
+      {
+        "replace": "tfc:rock/gravel/rhyolite",
+        "with": "terrafirmamisc:deposit/native_platinum/rhyolite"
+      },
+      {
+        "replace": "tfc:rock/gravel/basalt",
+        "with": "terrafirmamisc:deposit/native_platinum/basalt"
+      },
+      {
+        "replace": "tfc:rock/gravel/andesite",
+        "with": "terrafirmamisc:deposit/native_platinum/andesite"
+      },
+      {
+        "replace": "tfc:rock/gravel/dacite",
+        "with": "terrafirmamisc:deposit/native_platinum/dacite"
+      },
+      {
+        "replace": "tfc:rock/gravel/quartzite",
+        "with": "terrafirmamisc:deposit/native_platinum/quartzite"
+      },
+      {
+        "replace": "tfc:rock/gravel/slate",
+        "with": "terrafirmamisc:deposit/native_platinum/slate"
+      },
+      {
+        "replace": "tfc:rock/gravel/phyllite",
+        "with": "terrafirmamisc:deposit/native_platinum/phyllite"
+      },
+      {
+        "replace": "tfc:rock/gravel/schist",
+        "with": "terrafirmamisc:deposit/native_platinum/schist"
+      },
+      {
+        "replace": "tfc:rock/gravel/gneiss",
+        "with": "terrafirmamisc:deposit/native_platinum/gneiss"
+      },
+      {
+        "replace": "tfc:rock/gravel/marble",
+        "with": "terrafirmamisc:deposit/native_platinum/marble"
+      },
+      {
+        "replace": "terrafirmamisc:rock/gravel/bauxite",
+        "with": "terrafirmamisc:deposit/native_platinum/bauxite"
+      }
+    ]
+  }
+}

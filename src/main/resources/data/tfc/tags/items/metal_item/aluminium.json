@@ -1,0 +1,22 @@
+{
+  "replace": false,
+  "values": [
+    "terrafirmamisc:metal/ingot/aluminium",
+    "terrafirmamisc:metal/double_ingot/aluminium",
+    "terrafirmamisc:metal/sheet/aluminium",
+    "terrafirmamisc:metal/double_sheet/aluminium",
+    "terrafirmamisc:metal/rod/aluminium",
+    "terrafirmamisc:metal/block/aluminium",
+    "terrafirmamisc:metal/block/aluminium_slab",
+    "terrafirmamisc:metal/block/aluminium_stairs",
+    "terrafirmamisc:metal/chain/aluminium",
+    "terrafirmamisc:metal/cog/aluminium",
+    "terrafirmamisc:metal/foil/aluminium",
+    "terrafirmamisc:metal/nail/aluminium",
+    "terrafirmamisc:metal/plate/aluminium",
+    "terrafirmamisc:metal/ring/aluminium",
+    "terrafirmamisc:metal/screw/aluminium",
+    "terrafirmamisc:metal/spring/aluminium",
+    "terrafirmamisc:metal/wire/aluminium"
+  ]
+}

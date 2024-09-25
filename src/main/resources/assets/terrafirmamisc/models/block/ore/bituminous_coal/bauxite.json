@@ -1,0 +1,7 @@
+{
+  "parent": "tfc:block/ore",
+  "textures": {
+    "all": "terrafirmamisc:block/rock/raw/bauxite",
+    "overlay": "tfc:block/ore/bituminous_coal"
+  }
+}

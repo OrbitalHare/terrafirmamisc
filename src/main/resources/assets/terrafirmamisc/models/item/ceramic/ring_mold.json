@@ -1,0 +1,8 @@
+{
+  "loader": "tfc:contained_fluid",
+  "parent": "forge:item/default",
+  "textures": {
+    "base": "terrafirmamisc:item/ceramic/ring/mold_empty",
+    "fluid": "terrafirmamisc:item/ceramic/ring/mold_overlay"
+  }
+}

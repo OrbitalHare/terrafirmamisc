@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "terrafirmamisc:item/loose_rock/bauxite",
+    "layer1": "tfc:item/loose_rock/moss"
+  }
+}

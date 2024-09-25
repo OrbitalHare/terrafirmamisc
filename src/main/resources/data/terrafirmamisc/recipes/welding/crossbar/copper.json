@@ -1,0 +1,13 @@
+{
+  "type": "tfc:welding",
+  "first_input": {
+    "item": "tfc:metal/rod/copper"
+  },
+  "second_input": {
+    "item": "tfc:metal/rod/copper"
+  },
+  "tier": 1,
+  "result": {
+    "item": "terrafirmamisc:metal/crossbar/copper"
+  }
+}

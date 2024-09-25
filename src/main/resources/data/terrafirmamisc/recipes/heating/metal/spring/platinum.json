@@ -1,0 +1,11 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "terrafirmamisc:metal/spring/platinum"
+  },
+  "result_fluid": {
+    "fluid": "terrafirmamisc:metal/platinum",
+    "amount": 30
+  },
+  "temperature": 1768
+}

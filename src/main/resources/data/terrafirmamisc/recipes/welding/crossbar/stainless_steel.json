@@ -1,0 +1,19 @@
+{
+  "type": "tfc:welding",
+  "first_input": {
+    "item": "firmalife:metal/rod/stainless_steel"
+  },
+  "second_input": {
+    "item": "firmalife:metal/rod/stainless_steel"
+  },
+  "tier": 4,
+  "result": {
+    "item": "terrafirmamisc:metal/crossbar/stainless_steel"
+  },
+  "conditions": [
+    {
+      "modid": "firmalife",
+      "type": "forge:mod_loaded"
+    }
+  ]
+}

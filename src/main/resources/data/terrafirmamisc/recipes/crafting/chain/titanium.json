@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "terrafirmamisc:metal/ring/titanium"
+    },
+    {
+      "item": "terrafirmamisc:metal/ring/titanium"
+    },
+    {
+      "item": "terrafirmamisc:metal/ring/titanium"
+    },
+    {
+      "item": "terrafirmamisc:metal/ring/titanium"
+    },
+    {
+      "item": "terrafirmamisc:metal/ring/titanium"
+    },
+    {
+      "item": "terrafirmamisc:metal/ring/titanium"
+    }
+  ],
+  "result": {
+    "item": "terrafirmamisc:metal/chain/titanium"
+  }
+}

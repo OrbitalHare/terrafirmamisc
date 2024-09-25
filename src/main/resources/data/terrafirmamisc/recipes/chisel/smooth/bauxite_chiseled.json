@@ -1,0 +1,6 @@
+{
+  "type": "tfc:chisel",
+  "ingredient": "terrafirmamisc:rock/bricks/bauxite",
+  "result": "terrafirmamisc:rock/chiseled/bauxite",
+  "mode": "smooth"
+}

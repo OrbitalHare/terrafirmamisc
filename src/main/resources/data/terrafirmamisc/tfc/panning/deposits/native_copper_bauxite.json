@@ -1,0 +1,9 @@
+{
+  "ingredient": "terrafirmamisc:deposit/native_copper/bauxite",
+  "model_stages": [
+    "terrafirmamisc:item/pan/native_copper/bauxite_full",
+    "terrafirmamisc:item/pan/native_copper/bauxite_half",
+    "tfc:item/pan/native_copper/result"
+  ],
+  "loot_table": "terrafirmamisc:panning/deposits/native_copper_bauxite"
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "terrafirmamisc:block/rock/pressure_plate/bauxite"
+    },
+    "powered=true": {
+      "model": "terrafirmamisc:block/rock/pressure_plate/bauxite_down"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "tfc:welding",
+  "first_input": {
+    "item": "terrafirmamisc:metal/ingot/titanium"
+  },
+  "second_input": {
+    "item": "terrafirmamisc:metal/ingot/titanium"
+  },
+  "tier": 5,
+  "result": {
+    "item": "terrafirmamisc:metal/double_ingot/titanium"
+  }
+}

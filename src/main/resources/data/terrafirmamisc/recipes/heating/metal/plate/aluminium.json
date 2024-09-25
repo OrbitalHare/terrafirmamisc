@@ -1,0 +1,11 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "terrafirmamisc:metal/plate/aluminium"
+  },
+  "result_fluid": {
+    "fluid": "terrafirmamisc:metal/aluminium",
+    "amount": 400
+  },
+  "temperature": 660
+}

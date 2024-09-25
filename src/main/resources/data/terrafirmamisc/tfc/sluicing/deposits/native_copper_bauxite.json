@@ -1,0 +1,4 @@
+{
+  "ingredient": { "item": "terrafirmamisc:deposit/native_copper/bauxite" },
+  "loot_table": "terrafirmamisc:panning/deposits/native_copper_bauxite"
+}

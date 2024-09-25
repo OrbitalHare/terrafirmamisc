@@ -1,0 +1,9 @@
+{
+  "ingredient": "terrafirmamisc:deposit/native_platinum/quartzite",
+  "model_stages": [
+    "terrafirmamisc:item/pan/native_platinum/quartzite_full",
+    "terrafirmamisc:item/pan/native_platinum/quartzite_half",
+    "terrafirmamisc:item/pan/native_platinum/result"
+  ],
+  "loot_table": "terrafirmamisc:panning/deposits/native_platinum_quartzite"
+}

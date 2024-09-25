@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "terrafirmamisc:rock/raw/bauxite",
+    "terrafirmamisc:rock/cobble/bauxite",
+    "terrafirmamisc:rock/hardened/bauxite"
+
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "terrafirmamisc:metal/aluminium",
+    "terrafirmamisc:metal/flowing_aluminium"
+  ]
+}

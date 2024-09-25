@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "terrafirmamisc:block/metal/block/aluminium_slab"
+    },
+    "type=top": {
+      "model": "terrafirmamisc:block/metal/block/aluminium_slab_top"
+    },
+    "type=double": {
+      "model": "terrafirmamisc:block/metal/block/aluminium"
+    }
+  }
+}

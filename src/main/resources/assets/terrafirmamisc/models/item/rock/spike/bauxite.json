@@ -1,0 +1,6 @@
+{
+  "parent": "terrafirmamisc:block/rock/spike/bauxite_base",
+  "textures": {
+    "layer0": "terrafirmamisc:block/rock/raw/bauxite_base"
+  }
+}

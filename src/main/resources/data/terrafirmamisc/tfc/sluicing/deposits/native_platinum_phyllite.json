@@ -1,0 +1,9 @@
+{
+  "ingredient": "terrafirmamisc:deposit/native_platinum/phyllite",
+  "model_stages": [
+    "terrafirmamisc:item/pan/native_platinum/phyllite_full",
+    "terrafirmamisc:item/pan/native_platinum/phyllite_half",
+    "terrafirmamisc:item/pan/native_platinum/result"
+  ],
+  "loot_table": "terrafirmamisc:panning/deposits/native_platinum_phyllite"
+}

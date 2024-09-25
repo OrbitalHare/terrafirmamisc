@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X X",
+    "MXM"
+  ],
+  "key": {
+    "X": {
+      "item": "terrafirmamisc:brick/bauxite"
+    },
+    "M": {
+      "tag": "tfc:mortar"
+    }
+  },
+  "result": {
+    "item": "terrafirmamisc:rock/aqueduct/bauxite"
+  }
+}

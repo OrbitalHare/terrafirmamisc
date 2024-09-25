@@ -1,0 +1,6 @@
+{
+  "loader": "forge:fluid_container",
+  "render_type": "minecraft:translucent",
+  "parent": "forge:item/bucket",
+  "fluid": "terrafirmamisc:metal/aluminium"
+}

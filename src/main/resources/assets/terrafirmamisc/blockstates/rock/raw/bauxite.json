@@ -1,0 +1,52 @@
+{
+  "variants": {
+    "axis=x": [
+      {
+        "model": "terrafirmamisc:block/rock/raw/bauxite",
+        "x": 90,
+        "y": 90
+      },
+      {
+        "model": "terrafirmamisc:block/rock/raw/bauxite_mirrored",
+        "x": 90,
+        "y": 90
+      }
+    ],
+    "axis=y": [
+      {
+        "model": "terrafirmamisc:block/rock/raw/bauxite"
+      },
+      {
+        "model": "terrafirmamisc:block/rock/raw/bauxite_mirrored"
+      },
+      {
+        "model": "terrafirmamisc:block/rock/raw/bauxite",
+        "y": 180
+      },
+      {
+        "model": "terrafirmamisc:block/rock/raw/bauxite_mirrored",
+        "y": 180
+      }
+    ],
+    "axis=z": [
+      {
+        "model": "terrafirmamisc:block/rock/raw/bauxite",
+        "x": 90
+      },
+      {
+        "model": "terrafirmamisc:block/rock/raw/bauxite_mirrored",
+        "x": 90
+      },
+      {
+        "model": "terrafirmamisc:block/rock/raw/bauxite",
+        "x": 90,
+        "y": 180
+      },
+      {
+        "model": "terrafirmamisc:block/rock/raw/bauxite_mirrored",
+        "x": 90,
+        "y": 180
+      }
+    ]
+  }
+}

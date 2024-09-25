@@ -1,0 +1,9 @@
+{
+  "ingredient":
+    {
+      "item": "terrafirmamisc:powder/native_platinum"
+    },
+  "heat_capacity": 0.667,
+  "forging_temperature": 636,
+  "welding_temperature": 848
+}

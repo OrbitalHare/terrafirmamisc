@@ -1,0 +1,14 @@
+{
+  "type": "tfc:anvil",
+  "input": {
+    "item": "terrafirmamisc:metal/wire/bronze"
+  },
+  "result": {
+    "item": "terrafirmamisc:metal/ring/bronze",
+    "count": 5
+  },
+  "tier": 2,
+  "rules": [
+    "punch_last"
+  ]
+}

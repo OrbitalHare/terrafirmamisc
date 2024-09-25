@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "#forge:double_ingots/aluminium",
+    "#forge:double_ingots/titanium",
+    "#forge:double_ingots/platinum"
+  ]
+}

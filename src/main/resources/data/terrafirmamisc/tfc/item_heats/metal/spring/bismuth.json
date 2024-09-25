@@ -2,7 +2,7 @@
   "ingredient": {
     "item": "terrafirmamisc:metal/spring/bismuth"
   },
-  "heat_capacity": 7.143,
+  "heat_capacity": 2.857,
   "forging_temperature": 162,
   "welding_temperature": 216
 }

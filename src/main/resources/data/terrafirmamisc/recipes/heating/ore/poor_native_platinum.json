@@ -1,0 +1,11 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "terrafirmamisc:ore/poor_native_platinum"
+  },
+  "result_fluid": {
+    "fluid": "terrafirmamisc:metal/platinum",
+    "amount": 15
+  },
+  "temperature": 1768
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "terrafirmamisc:block/metal/block/titanium_slab"
+    },
+    "type=top": {
+      "model": "terrafirmamisc:block/metal/block/titanium_slab_top"
+    },
+    "type=double": {
+      "model": "terrafirmamisc:block/metal/block/titanium"
+    }
+  }
+}

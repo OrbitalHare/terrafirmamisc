@@ -1,0 +1,5 @@
+{
+  "type": "tfc:collapse",
+  "ingredient": "terrafirmamisc:ore/rich_native_gold/bauxite",
+  "result": "terrafirmamisc:ore/normal_native_gold/bauxite"
+}

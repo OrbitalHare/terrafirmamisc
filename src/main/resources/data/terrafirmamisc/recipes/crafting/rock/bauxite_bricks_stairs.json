@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X  ",
+    "XX ",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "terrafirmamisc:rock/bricks/bauxite"
+    }
+  },
+  "result": {
+    "item": "terrafirmamisc:rock/bricks/bauxite_stairs",
+    "count": 8
+  }
+}

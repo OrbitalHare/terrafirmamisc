@@ -1,0 +1,9 @@
+{
+  "parent": "tfc:block/ore",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "all": "tfc:block/rock/raw/diorite",
+    "particle": "tfc:block/rock/raw/diorite",
+    "overlay": "terrafirmamisc:block/ore/normal_native_platinum"
+  }
+}

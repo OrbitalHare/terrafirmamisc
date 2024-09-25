@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "terrafirmamisc:metal/ring/aluminium"
+    },
+    {
+      "item": "terrafirmamisc:metal/ring/aluminium"
+    },
+    {
+      "item": "terrafirmamisc:metal/ring/aluminium"
+    },
+    {
+      "item": "terrafirmamisc:metal/ring/aluminium"
+    },
+    {
+      "item": "terrafirmamisc:metal/ring/aluminium"
+    },
+    {
+      "item": "terrafirmamisc:metal/ring/aluminium"
+    }
+  ],
+  "result": {
+    "item": "terrafirmamisc:metal/chain/aluminium"
+  }
+}

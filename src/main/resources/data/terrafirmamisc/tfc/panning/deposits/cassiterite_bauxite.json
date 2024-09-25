@@ -1,0 +1,9 @@
+{
+  "ingredient": "terrafirmamisc:deposit/cassiterite/bauxite",
+  "model_stages": [
+    "terrafirmamisc:item/pan/cassiterite/bauxite_full",
+    "terrafirmamisc:item/pan/cassiterite/bauxite_half",
+    "tfc:item/pan/cassiterite/result"
+  ],
+  "loot_table": "terrafirmamisc:panning/deposits/cassiterite_bauxite"
+}

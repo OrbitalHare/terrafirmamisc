@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X ",
+    "YX"
+  ],
+  "key": {
+    "X": {
+      "item": "tfc:metal/rod/brass"
+    },
+    "Y": {
+      "item": "terrafirmamisc:metal/ring/brass"
+    }
+  },
+  "result": {
+    "item": "tfc:jacks"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "ingredient": "terrafirmamisc:deposit/native_platinum/claystone",
+  "model_stages": [
+    "terrafirmamisc:item/pan/native_platinum/claystone_full",
+    "terrafirmamisc:item/pan/native_platinum/claystone_half",
+    "terrafirmamisc:item/pan/native_platinum/result"
+  ],
+  "loot_table": "terrafirmamisc:panning/deposits/native_platinum_claystone"
+}

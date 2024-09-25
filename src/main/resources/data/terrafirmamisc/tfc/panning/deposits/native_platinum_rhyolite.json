@@ -1,0 +1,9 @@
+{
+  "ingredient": "terrafirmamisc:deposit/native_platinum/rhyolite",
+  "model_stages": [
+    "terrafirmamisc:item/pan/native_platinum/rhyolite_full",
+    "terrafirmamisc:item/pan/native_platinum/rhyolite_half",
+    "terrafirmamisc:item/pan/native_platinum/result"
+  ],
+  "loot_table": "terrafirmamisc:panning/deposits/native_platinum_rhyolite"
+}

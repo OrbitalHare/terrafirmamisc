@@ -1,0 +1,9 @@
+{
+  "type": "tfc:chisel",
+  "ingredient": "terrafirmamisc:rock/smooth/bauxite",
+  "result": "terrafirmamisc:rock/smooth/bauxite_slab",
+  "mode": "slab",
+  "extra_drop": {
+    "item": "terrafirmamisc:rock/smooth/bauxite_slab"
+  }
+}

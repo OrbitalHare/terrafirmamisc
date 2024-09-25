@@ -1,0 +1,13 @@
+{
+  "type": "tfc:welding",
+  "first_input": {
+    "item": "terrafirmamisc:metal/sheet/aluminium"
+  },
+  "second_input": {
+    "item": "terrafirmamisc:metal/sheet/aluminium"
+  },
+  "tier": 2,
+  "result": {
+    "item": "terrafirmamisc:metal/double_sheet/aluminium"
+  }
+}

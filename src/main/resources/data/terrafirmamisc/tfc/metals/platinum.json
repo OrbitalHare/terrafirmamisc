@@ -1,0 +1,15 @@
+{
+  "tier": 4,
+  "fluid": "terrafirmamisc:metal/platinum",
+  "melt_temperature": 1768,
+  "specific_heat_capacity": 0.007,
+  "ingots": {
+    "tag": "forge:ingots/platinum"
+  },
+  "double_ingots": {
+    "tag": "forge:double_ingots/platinum"
+  },
+  "sheets": {
+    "tag": "forge:sheets/platinum"
+  }
+}

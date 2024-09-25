@@ -1,0 +1,9 @@
+{
+  "type": "tfc:chisel",
+  "ingredient": "terrafirmamisc:rock/mossy_cobble/bauxite",
+  "result": "terrafirmamisc:rock/mossy_cobble/bauxite_slab",
+  "mode": "slab",
+  "extra_drop": {
+    "item": "terrafirmamisc:rock/mossy_cobble/bauxite_slab"
+  }
+}

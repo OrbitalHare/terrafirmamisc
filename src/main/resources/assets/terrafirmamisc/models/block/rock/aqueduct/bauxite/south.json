@@ -1,0 +1,7 @@
+{
+  "parent": "tfc:block/aqueduct/south",
+  "textures": {
+    "texture": "terrafirmamisc:block/rock/bricks/bauxite",
+    "particle": "terrafirmamisc:block/rock/bricks/bauxite"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "tier": 4,
+  "fluid": "terrafirmamisc:metal/aluminium",
+  "melt_temperature": 660,
+  "specific_heat_capacity": 0.00857,
+  "ingots": {
+    "tag": "forge:ingots/aluminium"
+  },
+  "double_ingots": {
+    "tag": "forge:double_ingots/aluminium"
+  },
+  "sheets": {
+    "tag": "forge:sheets/aluminium"
+  }
+}

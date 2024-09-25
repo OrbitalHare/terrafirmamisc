@@ -1,0 +1,8 @@
+{
+  "parent": "tfc:block/ore",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "all": "terrafirmamisc:block/rock/raw/bauxite",
+    "overlay": "tfc:block/ore/rich_malachite"
+  }
+}

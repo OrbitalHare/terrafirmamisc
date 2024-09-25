@@ -1,0 +1,7 @@
+{
+  "parent": "tfc:block/rock/spike_middle",
+  "textures": {
+    "texture": "terrafirmamisc:block/rock/raw/bauxite",
+    "particle": "terrafirmamisc:block/rock/raw/bauxite"
+  }
+}

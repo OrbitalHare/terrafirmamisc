@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "terrafirmamisc:block/rock/bricks/bauxite",
+    "top": "terrafirmamisc:block/rock/bricks/bauxite",
+    "side": "terrafirmamisc:block/rock/bricks/bauxite"
+  }
+}

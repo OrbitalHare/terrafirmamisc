@@ -1,0 +1,6 @@
+{
+  "parent":"tfc:item/pan/result",
+  "textures": {
+    "material":"terrafirmamisc:block/metal/smooth/platinum"
+  }
+}

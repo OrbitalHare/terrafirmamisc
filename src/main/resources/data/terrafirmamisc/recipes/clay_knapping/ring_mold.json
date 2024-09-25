@@ -1,0 +1,14 @@
+{
+  "type": "tfc:knapping",
+  "knapping_type": "tfc:clay",
+  "pattern": [
+    "XXXXX",
+    "XX XX",
+    "X X X",
+    "XX XX",
+    "XXXXX"
+  ],
+  "result": {
+    "item": "terrafirmamisc:ceramic/unfired_ring_mold"
+  }
+}

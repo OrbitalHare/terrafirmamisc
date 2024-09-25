@@ -1,0 +1,14 @@
+{
+  "type": "tfc:anvil",
+  "input": {
+    "item": "terrafirmamisc:metal/double_sheet/titanium"
+  },
+  "result": {
+    "item": "terrafirmamisc:metal/plate/titanium"
+  },
+  "tier": 5,
+  "rules": [
+    "hit_last",
+    "draw_second_last"
+  ]
+}

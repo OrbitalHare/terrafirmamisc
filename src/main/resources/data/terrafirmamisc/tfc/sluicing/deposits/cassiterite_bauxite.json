@@ -1,0 +1,4 @@
+{
+  "ingredient": { "item": "terrafirmamisc:deposit/cassiterite/bauxite" },
+  "loot_table": "terrafirmamisc:panning/deposits/cassiterite_bauxite"
+}

@@ -1,0 +1,9 @@
+{
+  "ingredient": "terrafirmamisc:deposit/native_platinum/andesite",
+  "model_stages": [
+    "terrafirmamisc:item/pan/native_platinum/andesite_full",
+    "terrafirmamisc:item/pan/native_platinum/andesite_half",
+    "terrafirmamisc:item/pan/native_platinum/result"
+  ],
+  "loot_table": "terrafirmamisc:panning/deposits/native_platinum_andesite"
+}

@@ -1,0 +1,56 @@
+{
+  "__comment__": "This file was automatically created by mcresources",
+  "variants": {
+    "count=1": [
+      {
+        "model": "terrafirmamisc:block/rock/loose/bauxite_1_mossy",
+        "y": 90
+      },
+      {
+        "model": "terrafirmamisc:block/rock/loose/bauxite_1_mossy"
+      },
+      {
+        "model": "terrafirmamisc:block/rock/loose/bauxite_1_mossy",
+        "y": 180
+      },
+      {
+        "model": "terrafirmamisc:block/rock/loose/bauxite_1_mossy",
+        "y": 270
+      }
+    ],
+    "count=2": [
+      {
+        "model": "terrafirmamisc:block/rock/loose/bauxite_2_mossy",
+        "y": 90
+      },
+      {
+        "model": "terrafirmamisc:block/rock/loose/bauxite_2_mossy"
+      },
+      {
+        "model": "terrafirmamisc:block/rock/loose/bauxite_2_mossy",
+        "y": 180
+      },
+      {
+        "model": "terrafirmamisc:block/rock/loose/bauxite_2_mossy",
+        "y": 270
+      }
+    ],
+    "count=3": [
+      {
+        "model": "terrafirmamisc:block/rock/loose/bauxite_3_mossy",
+        "y": 90
+      },
+      {
+        "model": "terrafirmamisc:block/rock/loose/bauxite_3_mossy"
+      },
+      {
+        "model": "terrafirmamisc:block/rock/loose/bauxite_3_mossy",
+        "y": 180
+      },
+      {
+        "model": "terrafirmamisc:block/rock/loose/bauxite_3_mossy",
+        "y": 270
+      }
+    ]
+  }
+}

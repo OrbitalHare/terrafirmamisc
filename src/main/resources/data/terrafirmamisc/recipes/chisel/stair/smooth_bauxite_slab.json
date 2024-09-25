@@ -1,0 +1,6 @@
+{
+  "type": "tfc:chisel",
+  "ingredient": "terrafirmamisc:rock/smooth/bauxite",
+  "result": "terrafirmamisc:rock/smooth/bauxite_stairs",
+  "mode": "stair"
+}

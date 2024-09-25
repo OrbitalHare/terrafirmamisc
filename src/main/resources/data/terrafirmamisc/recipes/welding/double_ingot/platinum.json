@@ -1,0 +1,13 @@
+{
+  "type": "tfc:welding",
+  "first_input": {
+    "item": "terrafirmamisc:metal/ingot/platinum"
+  },
+  "second_input": {
+    "item": "terrafirmamisc:metal/ingot/platinum"
+  },
+  "tier": 1,
+  "result": {
+    "item": "terrafirmamisc:metal/double_ingot/platinum"
+  }
+}

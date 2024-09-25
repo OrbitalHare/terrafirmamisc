@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "terrafirmamisc:ore/poor_hematite/bauxite",
+    "terrafirmamisc:ore/poor_magnetite/bauxite",
+    "terrafirmamisc:ore/poor_limonite/bauxite"
+  ]
+}

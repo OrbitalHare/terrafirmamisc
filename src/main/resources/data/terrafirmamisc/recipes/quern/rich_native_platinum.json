@@ -1,0 +1,10 @@
+{
+  "type": "tfc:quern",
+  "ingredient": {
+    "item": "terrafirmamisc:ore/rich_native_platinum"
+  },
+  "result": {
+    "item": "terrafirmamisc:powder/native_platinum",
+    "count": 7
+  }
+}

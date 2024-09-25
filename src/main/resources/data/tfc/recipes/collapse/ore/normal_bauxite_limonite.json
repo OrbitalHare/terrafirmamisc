@@ -1,0 +1,5 @@
+{
+  "type": "tfc:collapse",
+  "ingredient": "terrafirmamisc:ore/rich_limonite/bauxite",
+  "result": "terrafirmamisc:ore/normal_limonite/bauxite"
+}

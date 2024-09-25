@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "terrafirmamisc:rock/cobble/bauxite"
+    }
+  },
+  "result": {
+    "item": "terrafirmamisc:rock/cobble/bauxite_wall",
+    "count": 6
+  }
+}

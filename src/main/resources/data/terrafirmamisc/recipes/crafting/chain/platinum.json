@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "terrafirmamisc:metal/ring/platinum"
+    },
+    {
+      "item": "terrafirmamisc:metal/ring/platinum"
+    },
+    {
+      "item": "terrafirmamisc:metal/ring/platinum"
+    },
+    {
+      "item": "terrafirmamisc:metal/ring/platinum"
+    },
+    {
+      "item": "terrafirmamisc:metal/ring/platinum"
+    },
+    {
+      "item": "terrafirmamisc:metal/ring/platinum"
+    }
+  ],
+  "result": {
+    "item": "terrafirmamisc:metal/chain/platinum"
+  }
+}

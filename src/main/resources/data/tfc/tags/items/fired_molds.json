@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-    "terrafirmamisc:ceramic/nail_mold"
+    "terrafirmamisc:ceramic/nail_mold",
+    "terrafirmamisc:ceramic/ring_mold"
   ]
 }

@@ -1,0 +1,9 @@
+{
+  "parent": "tfc:block/ore",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "all": "terrafirmamisc:block/rock/gravel/bauxite",
+    "particle": "terrafirmamisc:block/rock/gravel/bauxite",
+    "overlay": "tfc:block/deposit/native_copper"
+  }
+}

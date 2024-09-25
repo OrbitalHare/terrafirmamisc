@@ -1,0 +1,9 @@
+{
+  "ingredient": "terrafirmamisc:deposit/native_gold/bauxite",
+  "model_stages": [
+    "terrafirmamisc:item/pan/native_gold/bauxite_full",
+    "terrafirmamisc:item/pan/native_gold/bauxite_half",
+    "tfc:item/pan/native_gold/result"
+  ],
+  "loot_table": "terrafirmamisc:panning/deposits/native_gold_bauxite"
+}

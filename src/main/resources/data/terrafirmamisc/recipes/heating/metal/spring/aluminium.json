@@ -1,0 +1,11 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "terrafirmamisc:metal/spring/aluminium"
+  },
+  "result_fluid": {
+    "fluid": "terrafirmamisc:metal/aluminium",
+    "amount": 30
+  },
+  "temperature": 660
+}

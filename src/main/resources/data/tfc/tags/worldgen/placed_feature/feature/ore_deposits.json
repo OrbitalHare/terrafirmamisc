@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "terrafirmamisc:native_platinum_deposit",
+    "terrafirmamisc:native_platinum_deep_deposit"
+  ]
+}

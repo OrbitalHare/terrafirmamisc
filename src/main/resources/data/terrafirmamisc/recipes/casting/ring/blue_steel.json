@@ -1,0 +1,15 @@
+{
+  "type": "tfc:casting",
+  "mold": {
+    "item": "terrafirmamisc:ceramic/ring_mold"
+  },
+  "fluid": {
+    "ingredient": "tfc:metal/blue_steel",
+    "amount": 20
+  },
+  "result": {
+    "item": "terrafirmamisc:metal/ring/blue_steel",
+    "count": 4
+  },
+  "break_chance": 0.1
+}

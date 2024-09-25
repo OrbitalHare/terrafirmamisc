@@ -3,9 +3,12 @@
   "minVersion": "0.8",
   "package": "me.orbitalhare.terrafirmamisc.mixin",
   "compatibilityLevel": "JAVA_17",
+  "refmap": "TerraFirmaMisc.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+  ],
   "injectors": {
     "defaultRequire": 1
-  },
-
-  "refmap": "terrafirmamisc.refmap.json"
+  }
 }

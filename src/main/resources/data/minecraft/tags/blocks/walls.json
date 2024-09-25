@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "terrafirmamisc:rock/raw/bauxite_wall",
+    "terrafirmamisc:rock/cobble/bauxite_wall",
+    "terrafirmamisc:rock/bricks/bauxite_wall",
+    "terrafirmamisc:rock/mossy_cobble/bauxite_wall",
+    "terrafirmamisc:rock/mossy_bricks/bauxite_wall",
+    "terrafirmamisc:rock/cracked_bricks/bauxite_wall",
+    "terrafirmamisc:rock/smooth/bauxite_wall"
+  ]
+}

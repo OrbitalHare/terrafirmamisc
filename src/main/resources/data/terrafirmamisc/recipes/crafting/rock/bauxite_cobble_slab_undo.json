@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "terrafirmamisc:rock/cobble/bauxite_slab"
+    }
+  ],
+  "result": {
+    "item": "terrafirmamisc:rock/loose/bauxite",
+    "count": 2
+  }
+}

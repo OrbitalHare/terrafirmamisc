@@ -1,0 +1,13 @@
+{
+  "type": "tfc:welding",
+  "first_input": {
+    "item": "tfc:metal/rod/sterling_silver"
+  },
+  "second_input": {
+    "item": "tfc:metal/rod/sterling_silver"
+  },
+  "tier": 1,
+  "result": {
+    "item": "terrafirmamisc:metal/crossbar/sterling_silver"
+  }
+}

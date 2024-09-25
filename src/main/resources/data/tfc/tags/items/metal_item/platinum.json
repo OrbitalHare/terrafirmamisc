@@ -1,0 +1,22 @@
+{
+  "replace": false,
+  "values": [
+    "terrafirmamisc:metal/ingot/platinum",
+    "terrafirmamisc:metal/double_ingot/platinum",
+    "terrafirmamisc:metal/sheet/platinum",
+    "terrafirmamisc:metal/double_sheet/platinum",
+    "terrafirmamisc:metal/rod/platinum",
+    "terrafirmamisc:metal/block/platinum",
+    "terrafirmamisc:metal/block/platinum_slab",
+    "terrafirmamisc:metal/block/platinum_stairs",
+    "terrafirmamisc:metal/chain/platinum",
+    "terrafirmamisc:metal/cog/platinum",
+    "terrafirmamisc:metal/foil/platinum",
+    "terrafirmamisc:metal/nail/platinum",
+    "terrafirmamisc:metal/plate/platinum",
+    "terrafirmamisc:metal/ring/platinum",
+    "terrafirmamisc:metal/screw/platinum",
+    "terrafirmamisc:metal/spring/platinum",
+    "terrafirmamisc:metal/wire/platinum"
+  ]
+}

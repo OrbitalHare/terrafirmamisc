@@ -1,0 +1,22 @@
+{
+  "replace": false,
+  "values": [
+    "terrafirmamisc:metal/ingot/titanium",
+    "terrafirmamisc:metal/double_ingot/titanium",
+    "terrafirmamisc:metal/sheet/titanium",
+    "terrafirmamisc:metal/double_sheet/titanium",
+    "terrafirmamisc:metal/rod/titanium",
+    "terrafirmamisc:metal/block/titanium",
+    "terrafirmamisc:metal/block/titanium_slab",
+    "terrafirmamisc:metal/block/titanium_stairs",
+    "terrafirmamisc:metal/chain/titanium",
+    "terrafirmamisc:metal/cog/titanium",
+    "terrafirmamisc:metal/foil/titanium",
+    "terrafirmamisc:metal/nail/titanium",
+    "terrafirmamisc:metal/plate/titanium",
+    "terrafirmamisc:metal/ring/titanium",
+    "terrafirmamisc:metal/screw/titanium",
+    "terrafirmamisc:metal/spring/titanium",
+    "terrafirmamisc:metal/wire/titanium"
+  ]
+}

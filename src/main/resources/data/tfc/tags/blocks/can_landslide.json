@@ -1,0 +1,33 @@
+{
+  "replace": false,
+  "values": [
+    "terrafirmamisc:rock/cobble/bauxite",
+    "terrafirmamisc:rock/mossy_cobble/bauxite",
+    "terrafirmamisc:rock/gravel/bauxite",
+    "terrafirmamisc:deposit/native_gold/bauxite",
+    "terrafirmamisc:deposit/native_copper/bauxite",
+    "terrafirmamisc:deposit/native_silver/bauxite",
+    "terrafirmamisc:deposit/cassiterite/bauxite",
+    "terrafirmamisc:deposit/native_platinum/andesite",
+    "terrafirmamisc:deposit/native_platinum/basalt",
+    "terrafirmamisc:deposit/native_platinum/bauxite",
+    "terrafirmamisc:deposit/native_platinum/chalk",
+    "terrafirmamisc:deposit/native_platinum/chert",
+    "terrafirmamisc:deposit/native_platinum/claystone",
+    "terrafirmamisc:deposit/native_platinum/conglomerate",
+    "terrafirmamisc:deposit/native_platinum/dacite",
+    "terrafirmamisc:deposit/native_platinum/diorite",
+    "terrafirmamisc:deposit/native_platinum/dolomite",
+    "terrafirmamisc:deposit/native_platinum/gabbro",
+    "terrafirmamisc:deposit/native_platinum/gneiss",
+    "terrafirmamisc:deposit/native_platinum/granite",
+    "terrafirmamisc:deposit/native_platinum/limestone",
+    "terrafirmamisc:deposit/native_platinum/marble",
+    "terrafirmamisc:deposit/native_platinum/phyllite",
+    "terrafirmamisc:deposit/native_platinum/quartzite",
+    "terrafirmamisc:deposit/native_platinum/rhyolite",
+    "terrafirmamisc:deposit/native_platinum/schist",
+    "terrafirmamisc:deposit/native_platinum/shale",
+    "terrafirmamisc:deposit/native_platinum/slate"
+  ]
+}

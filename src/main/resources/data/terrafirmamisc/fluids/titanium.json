@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "terrafirmamisc:metal/titanium",
+    "terrafirmamisc:metal/flowing_titanium"
+  ]
+}

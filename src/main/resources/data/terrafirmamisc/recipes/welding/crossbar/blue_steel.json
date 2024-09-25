@@ -1,0 +1,13 @@
+{
+  "type": "tfc:welding",
+  "first_input": {
+    "item": "tfc:metal/rod/blue_steel"
+  },
+  "second_input": {
+    "item": "tfc:metal/rod/blue_steel"
+  },
+  "tier": 6,
+  "result": {
+    "item": "terrafirmamisc:metal/crossbar/blue_steel"
+  }
+}

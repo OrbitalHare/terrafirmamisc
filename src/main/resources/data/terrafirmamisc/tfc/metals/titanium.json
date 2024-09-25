@@ -1,0 +1,15 @@
+{
+  "tier": 4,
+  "fluid": "terrafirmamisc:metal/titanium",
+  "melt_temperature": 1668,
+  "specific_heat_capacity": 0.00857,
+  "ingots": {
+    "tag": "forge:ingots/titanium"
+  },
+  "double_ingots": {
+    "tag": "forge:double_ingots/titanium"
+  },
+  "sheets": {
+    "tag": "forge:sheets/titanium"
+  }
+}

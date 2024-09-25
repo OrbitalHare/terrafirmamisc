@@ -1,0 +1,15 @@
+{
+  "type": "tfc:casting",
+  "mold": {
+    "item": "terrafirmamisc:ceramic/ring_mold"
+  },
+  "fluid": {
+    "ingredient": "tfc:metal/wrought_iron",
+    "amount": 20
+  },
+  "result": {
+    "item": "terrafirmamisc:metal/ring/wrought_iron",
+    "count": 4
+  },
+  "break_chance": 0.1
+}

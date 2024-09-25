@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "terrafirmamisc:block/metal/block/platinum",
+    "top": "terrafirmamisc:block/metal/block/platinum",
+    "side": "terrafirmamisc:block/metal/block/platinum"
+  }
+}

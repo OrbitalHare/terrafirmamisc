@@ -1,0 +1,13 @@
+{
+  "type": "tfc:welding",
+  "first_input": {
+    "item": "terrafirmamisc:metal/ingot/aluminium"
+  },
+  "second_input": {
+    "item": "terrafirmamisc:metal/ingot/aluminium"
+  },
+  "tier": 2,
+  "result": {
+    "item": "terrafirmamisc:metal/double_ingot/aluminium"
+  }
+}

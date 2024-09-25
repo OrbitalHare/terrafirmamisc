@@ -1,0 +1,26 @@
+{
+  "replace": false,
+  "values": [
+    "terrafirmamisc:ore/rich_native_platinum/andesite",
+    "terrafirmamisc:ore/rich_native_platinum/basalt",
+    "terrafirmamisc:ore/rich_native_platinum/bauxite",
+    "terrafirmamisc:ore/rich_native_platinum/chalk",
+    "terrafirmamisc:ore/rich_native_platinum/chert",
+    "terrafirmamisc:ore/rich_native_platinum/claystone",
+    "terrafirmamisc:ore/rich_native_platinum/conglomerate",
+    "terrafirmamisc:ore/rich_native_platinum/dacite",
+    "terrafirmamisc:ore/rich_native_platinum/diorite",
+    "terrafirmamisc:ore/rich_native_platinum/dolomite",
+    "terrafirmamisc:ore/rich_native_platinum/gabbro",
+    "terrafirmamisc:ore/rich_native_platinum/gneiss",
+    "terrafirmamisc:ore/rich_native_platinum/granite",
+    "terrafirmamisc:ore/rich_native_platinum/limestone",
+    "terrafirmamisc:ore/rich_native_platinum/marble",
+    "terrafirmamisc:ore/rich_native_platinum/phyllite",
+    "terrafirmamisc:ore/rich_native_platinum/quartzite",
+    "terrafirmamisc:ore/rich_native_platinum/rhyolite",
+    "terrafirmamisc:ore/rich_native_platinum/schist",
+    "terrafirmamisc:ore/rich_native_platinum/shale",
+    "terrafirmamisc:ore/rich_native_platinum/slate"
+  ]
+}

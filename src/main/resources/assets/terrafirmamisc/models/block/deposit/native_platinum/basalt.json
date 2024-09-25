@@ -1,0 +1,9 @@
+{
+  "parent": "tfc:block/ore",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "all": "tfc:block/rock/gravel/basalt",
+    "particle": "tfc:block/rock/gravel/basalt",
+    "overlay": "terrafirmamisc:block/deposit/native_platinum"
+  }
+}

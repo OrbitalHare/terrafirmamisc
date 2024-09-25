@@ -1,0 +1,13 @@
+{
+  "type": "tfc:welding",
+  "first_input": {
+    "item": "terrafirmamisc:metal/foil/titanium"
+  },
+  "second_input": {
+    "item": "terrafirmamisc:metal/ring/titanium"
+  },
+  "tier": 5,
+  "result": {
+    "item": "terrafirmamisc:metal/cog/titanium"
+  }
+}

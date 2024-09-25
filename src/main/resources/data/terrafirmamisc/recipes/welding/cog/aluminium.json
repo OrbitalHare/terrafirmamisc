@@ -1,0 +1,13 @@
+{
+  "type": "tfc:welding",
+  "first_input": {
+    "item": "terrafirmamisc:metal/foil/aluminium"
+  },
+  "second_input": {
+    "item": "terrafirmamisc:metal/ring/aluminium"
+  },
+  "tier": 2,
+  "result": {
+    "item": "terrafirmamisc:metal/cog/aluminium"
+  }
+}

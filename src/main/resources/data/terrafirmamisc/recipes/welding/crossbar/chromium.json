@@ -1,0 +1,19 @@
+{
+  "type": "tfc:welding",
+  "first_input": {
+    "item": "firmalife:metal/rod/chromium"
+  },
+  "second_input": {
+    "item": "firmalife:metal/rod/chromium"
+  },
+  "tier": 4,
+  "result": {
+    "item": "terrafirmamisc:metal/crossbar/chromium"
+  },
+  "conditions": [
+    {
+      "modid": "firmalife",
+      "type": "forge:mod_loaded"
+    }
+  ]
+}

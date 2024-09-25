@@ -1,0 +1,5 @@
+{
+  "type": "tfc:collapse",
+  "ingredient": "terrafirmamisc:ore/rich_sphalerite/bauxite",
+  "result": "terrafirmamisc:ore/normal_sphalerite/bauxite"
+}

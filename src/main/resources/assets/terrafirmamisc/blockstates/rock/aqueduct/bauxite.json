@@ -1,0 +1,41 @@
+{
+  "multipart": [
+    {
+      "apply": {
+        "model": "terrafirmamisc:block/rock/aqueduct/bauxite/base"
+      }
+    },
+    {
+      "when": {
+        "north": "false"
+      },
+      "apply": {
+        "model": "terrafirmamisc:block/rock/aqueduct/bauxite/north"
+      }
+    },
+    {
+      "when": {
+        "east": "false"
+      },
+      "apply": {
+        "model": "terrafirmamisc:block/rock/aqueduct/bauxite/east"
+      }
+    },
+    {
+      "when": {
+        "south": "false"
+      },
+      "apply": {
+        "model": "terrafirmamisc:block/rock/aqueduct/bauxite/south"
+      }
+    },
+    {
+      "when": {
+        "west": "false"
+      },
+      "apply": {
+        "model": "terrafirmamisc:block/rock/aqueduct/bauxite/west"
+      }
+    }
+  ]
+}

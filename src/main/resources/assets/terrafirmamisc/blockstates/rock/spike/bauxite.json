@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "part=base": {
+      "model": "terrafirmamisc:block/rock/spike/bauxite_base"
+    },
+    "part=middle": {
+      "model": "terrafirmamisc:block/rock/spike/bauxite_middle"
+    },
+    "part=tip": {
+      "model": "terrafirmamisc:block/rock/spike/bauxite_tip"
+    }
+  }
+}

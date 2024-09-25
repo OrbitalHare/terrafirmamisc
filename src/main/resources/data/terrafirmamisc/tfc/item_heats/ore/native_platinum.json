@@ -1,0 +1,19 @@
+{
+  "ingredient": [
+    {
+      "item": "terrafirmamisc:ore/small_native_platinum"
+    },
+    {
+      "item": "terrafirmamisc:ore/normal_native_platinum"
+    },
+    {
+      "item": "terrafirmamisc:ore/poor_native_platinum"
+    },
+    {
+      "item": "terrafirmamisc:ore/rich_native_platinum"
+    }
+  ],
+  "heat_capacity": 1.143,
+  "forging_temperature": 921,
+  "welding_temperature": 1228
+}

@@ -1,0 +1,5 @@
+{
+  "type": "tfc:landslide",
+  "ingredient": "terrafirmamisc:deposit/native_platinum/gabbro",
+  "result": "terrafirmamisc:deposit/native_platinum/bauxite"
+}

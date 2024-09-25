@@ -1,0 +1,11 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "terrafirmamisc:metal/block/platinum_stairs"
+  },
+  "result_fluid": {
+    "fluid": "terrafirmamisc:metal/platinum",
+    "amount": 75
+  },
+  "temperature": 1768
+}

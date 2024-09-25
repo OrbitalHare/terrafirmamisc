@@ -1,0 +1,14 @@
+{
+  "type": "tfc:anvil",
+  "input": {
+    "item": "terrafirmamisc:metal/wire/zinc"
+  },
+  "result": {
+    "item": "terrafirmamisc:metal/ring/zinc",
+    "count": 5
+  },
+  "tier": 1,
+  "rules": [
+    "punch_last"
+  ]
+}

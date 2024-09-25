@@ -1,0 +1,43 @@
+{
+  "type": "tfc:cluster_vein",
+  "config": {
+    "rarity": 90,
+    "density": 0.6,
+    "min_y": 10,
+    "max_y": 180,
+    "size": 45,
+    "random_name": "bauxite_hematite",
+    "blocks": [
+      {
+        "replace": [
+          "terrafirmamisc:rock/raw/bauxite"
+        ],
+        "with": [
+          {
+            "weight": 15,
+            "block": "terrafirmamisc:ore/amethyst/bauxite"
+          },
+          {
+            "weight": 25,
+            "block": "terrafirmamisc:ore/amethyst/bauxite"
+          },
+          {
+            "weight": 60,
+            "block": "terrafirmamisc:ore/amethyst/bauxite"
+          }
+        ]
+      }
+    ],
+    "indicator": {
+      "rarity": 24,
+      "depth": 35,
+      "underground_rarity": 1,
+      "underground_count": 0,
+      "blocks": [
+        {
+          "block": "tfc:ore/small_hematite"
+        }
+      ]
+    }
+  }
+}

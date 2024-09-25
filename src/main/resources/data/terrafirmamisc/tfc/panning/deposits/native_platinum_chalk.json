@@ -1,0 +1,9 @@
+{
+  "ingredient": "terrafirmamisc:deposit/native_platinum/chalk",
+  "model_stages": [
+    "terrafirmamisc:item/pan/native_platinum/chalk_full",
+    "terrafirmamisc:item/pan/native_platinum/chalk_half",
+    "terrafirmamisc:item/pan/native_platinum/result"
+  ],
+  "loot_table": "terrafirmamisc:panning/deposits/native_platinum_chalk"
+}

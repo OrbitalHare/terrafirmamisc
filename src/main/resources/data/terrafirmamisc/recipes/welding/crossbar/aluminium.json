@@ -1,0 +1,13 @@
+{
+  "type": "tfc:welding",
+  "first_input": {
+    "item": "terrafirmamisc:metal/rod/aluminium"
+  },
+  "second_input": {
+    "item": "terrafirmamisc:metal/rod/aluminium"
+  },
+  "tier": 2,
+  "result": {
+    "item": "terrafirmamisc:metal/crossbar/aluminium"
+  }
+}

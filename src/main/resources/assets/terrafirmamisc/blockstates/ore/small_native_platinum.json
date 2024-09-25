@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "terrafirmamisc:block/groundcover/native_platinum",
+        "y": 90
+      },
+      {
+        "model": "terrafirmamisc:block/groundcover/native_platinum"
+      },
+      {
+        "model": "terrafirmamisc:block/groundcover/native_platinum",
+        "y": 180
+      },
+      {
+        "model": "terrafirmamisc:block/groundcover/native_platinum",
+        "y": 270
+      }
+    ]
+  }
+}

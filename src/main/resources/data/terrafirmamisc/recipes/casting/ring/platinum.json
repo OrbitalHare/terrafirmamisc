@@ -1,0 +1,15 @@
+{
+  "type": "tfc:casting",
+  "mold": {
+    "item": "terrafirmamisc:ceramic/ring_mold"
+  },
+  "fluid": {
+    "ingredient": "terrafirmamisc:metal/platinum",
+    "amount": 20
+  },
+  "result": {
+    "item": "terrafirmamisc:metal/ring/platinum",
+    "count": 4
+  },
+  "break_chance": 0.1
+}

@@ -1,0 +1,21 @@
+{
+  "type": "tfc:casting",
+  "mold": {
+    "item": "terrafirmamisc:ceramic/ring_mold"
+  },
+  "fluid": {
+    "ingredient": "firmalife:metal/stainless_steel",
+    "amount": 20
+  },
+  "result": {
+    "item": "terrafirmamisc:metal/ring/stainless_steel",
+    "count": 4
+  },
+  "break_chance": 0.1,
+  "conditions": [
+    {
+      "modid": "firmalife",
+      "type": "forge:mod_loaded"
+    }
+  ]
+}
