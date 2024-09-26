@@ -1,0 +1,81 @@
+{
+  "type": "tfc:cluster_vein",
+  "config": {
+    "rarity": 90,
+    "density": 0.25,
+    "min_y": 0,
+    "max_y": 100,
+    "size": 15,
+    "random_name": "normal_native_platinum",
+    "blocks": [
+      {
+        "replace": [
+          "tfc:rock/raw/granite"
+        ],
+        "with": [
+          {
+            "weight": 35,
+            "block": "terrafirmamisc:ore/poor_native_platinum/granite"
+          },
+          {
+            "weight": 40,
+            "block": "terrafirmamisc:ore/normal_native_platinum/granite"
+          },
+          {
+            "weight": 25,
+            "block": "terrafirmamisc:ore/rich_native_platinum/granite"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/diorite"
+        ],
+        "with": [
+          {
+            "weight": 35,
+            "block": "terrafirmamisc:ore/poor_native_platinum/diorite"
+          },
+          {
+            "weight": 40,
+            "block": "terrafirmamisc:ore/normal_native_platinum/diorite"
+          },
+          {
+            "weight": 25,
+            "block": "terrafirmamisc:ore/rich_native_platinum/diorite"
+          }
+        ]
+      },
+      {
+        "replace": [
+          "tfc:rock/raw/gabbro"
+        ],
+        "with": [
+          {
+            "weight": 35,
+            "block": "terrafirmamisc:ore/poor_native_platinum/gabbro"
+          },
+          {
+            "weight": 40,
+            "block": "terrafirmamisc:ore/normal_native_platinum/gabbro"
+          },
+          {
+            "weight": 25,
+            "block": "terrafirmamisc:ore/rich_native_platinum/gabbro"
+          }
+        ]
+      }
+    ],
+    "indicator": {
+      "rarity": 40,
+      "depth": 35,
+      "underground_rarity": 1,
+      "underground_count": 0,
+      "blocks": [
+        {
+          "block": "terrafirmamisc:ore/small_native_platinum"
+        }
+      ]
+    }
+  }
+}

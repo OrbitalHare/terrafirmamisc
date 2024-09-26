@@ -1,6 +1,8 @@
 {
   "replace": false,
   "values": [
-    "terrafirmamisc:vein/bauxite_hematite"
+    "terrafirmamisc:vein/bauxite_hematite",
+    "terrafirmamisc:vein/normal_native_platinum",
+    "terrafirmamisc:vein/rich_native_platinum"
   ]
 }
