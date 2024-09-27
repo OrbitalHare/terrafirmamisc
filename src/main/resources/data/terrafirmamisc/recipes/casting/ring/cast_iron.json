@@ -8,7 +8,7 @@
     "amount": 20
   },
   "result": {
-    "item": "terrafirmamisc:metal/nail/ring_iron",
+    "item": "terrafirmamisc:metal/ring/cast_iron",
     "count": 4
   },
   "break_chance": 0.1
